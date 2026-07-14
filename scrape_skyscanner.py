@@ -52,6 +52,10 @@ def extract_deals(raw: dict) -> list:
     except AttributeError:
         results = []
 
+    if results:
+        with open("skyscanner_raw_debug.json", "w", encoding="utf-8") as f:
+            json.dump(results[0], f, ensure_ascii=False, indent=2)
+
     for item in results:
         try:
             destination = item.get("content", {}).get("location", {}).get("name")
@@ -93,11 +97,6 @@ def main():
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
-
-    if not deals:
-        with open("skyscanner_raw_debug.json", "w", encoding="utf-8") as f:
-            json.dump(raw, f, ensure_ascii=False, indent=2)
-        print("לא נמצאו דילים - נשמר קובץ debug גולמי", file=sys.stderr)
 
     print(f"נשמרו {len(deals)} דילים ל-{OUTPUT_FILE}")
 
