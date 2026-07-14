@@ -1,498 +1,498 @@
 {
   "source": "Skyscanner (via Flights Scraper Sky API)",
   "from": "TLV",
-  "updated_at": "2026-07-14T16:31:31.927199+00:00",
+  "updated_at": "2026-07-14T16:37:51.678487+00:00",
   "deals_count": 98,
   "deals": [
     {
       "destination": "Cyprus",
       "price_usd": 21.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Cyprus"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/cy/"
     },
     {
       "destination": "Italy",
       "price_usd": 40.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Italy"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/it/"
     },
     {
       "destination": "Greece",
       "price_usd": 49.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Greece"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/gr/"
     },
     {
       "destination": "Bulgaria",
       "price_usd": 57.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Bulgaria"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/bg/"
     },
     {
       "destination": "Albania",
       "price_usd": 60.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Albania"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/al/"
     },
     {
       "destination": "Armenia",
       "price_usd": 61.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Armenia"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/am/"
     },
     {
       "destination": "Hungary",
       "price_usd": 62.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Hungary"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/hu/"
     },
     {
       "destination": "Poland",
       "price_usd": 63.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Poland"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/pl/"
     },
     {
       "destination": "Slovakia",
       "price_usd": 66.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Slovakia"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/sk/"
     },
     {
       "destination": "United Kingdom",
       "price_usd": 66.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20United%20Kingdom"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/uk/"
     },
     {
       "destination": "Romania",
       "price_usd": 68.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Romania"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/ro/"
     },
     {
       "destination": "Czechia",
       "price_usd": 70.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Czechia"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/cz/"
     },
     {
       "destination": "Lithuania",
       "price_usd": 72.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Lithuania"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/lt/"
     },
     {
       "destination": "Spain",
       "price_usd": 73.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Spain"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/es/"
     },
     {
       "destination": "Serbia",
       "price_usd": 75.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Serbia"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/rs/"
     },
     {
       "destination": "Montenegro",
       "price_usd": 78.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Montenegro"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/me/"
     },
     {
       "destination": "Malta",
       "price_usd": 78.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Malta"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/mt/"
     },
     {
       "destination": "Germany",
       "price_usd": 84.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Germany"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/de/"
     },
     {
       "destination": "France",
       "price_usd": 86.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20France"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/fr/"
     },
     {
       "destination": "Morocco",
       "price_usd": 86.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Morocco"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/ma/"
     },
     {
       "destination": "North Macedonia",
       "price_usd": 86.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20North%20Macedonia"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/mk/"
     },
     {
       "destination": "Austria",
       "price_usd": 88.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Austria"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/at/"
     },
     {
       "destination": "Georgia",
       "price_usd": 90.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Georgia"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/ge/"
     },
     {
       "destination": "Croatia",
       "price_usd": 92.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Croatia"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/hr/"
     },
     {
       "destination": "Switzerland",
       "price_usd": 92.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Switzerland"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/ch/"
     },
     {
       "destination": "Türkiye (Turkey)",
       "price_usd": 93.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20T%C3%BCrkiye%20%28Turkey%29"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/tr/"
     },
     {
       "destination": "Bosnia and Herzegovina",
       "price_usd": 93.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Bosnia%20and%20Herzegovina"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/ba/"
     },
     {
       "destination": "United Arab Emirates",
       "price_usd": 96.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20United%20Arab%20Emirates"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/ae/"
     },
     {
       "destination": "Netherlands",
       "price_usd": 97.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Netherlands"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/nl/"
     },
     {
       "destination": "Belgium",
       "price_usd": 97.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Belgium"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/be/"
     },
     {
       "destination": "Norway",
       "price_usd": 97.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Norway"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/no/"
     },
     {
       "destination": "Portugal",
       "price_usd": 97.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Portugal"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/pt/"
     },
     {
       "destination": "Luxembourg",
       "price_usd": 98.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Luxembourg"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/lu/"
     },
     {
       "destination": "Denmark",
       "price_usd": 100.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Denmark"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/dk/"
     },
     {
       "destination": "Sweden",
       "price_usd": 100.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Sweden"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/se/"
     },
     {
       "destination": "Latvia",
       "price_usd": 101.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Latvia"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/lv/"
     },
     {
       "destination": "Ireland",
       "price_usd": 106.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Ireland"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/ie/"
     },
     {
       "destination": "Estonia",
       "price_usd": 109.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Estonia"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/ee/"
     },
     {
       "destination": "Iceland",
       "price_usd": 117.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Iceland"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/is/"
     },
     {
       "destination": "Egypt",
       "price_usd": 123.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Egypt"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/eg/"
     },
     {
       "destination": "Jordan",
       "price_usd": 125.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Jordan"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/jo/"
+    },
+    {
+      "destination": "Berlin",
+      "price_usd": 135.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/berl/"
     },
     {
       "destination": "Slovenia",
       "price_usd": 140.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Slovenia"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/si/"
     },
     {
       "destination": "Finland",
       "price_usd": 141.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Finland"
-    },
-    {
-      "destination": "Munich",
-      "price_usd": 148.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Munich"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/fi/"
     },
     {
       "destination": "Azerbaijan",
       "price_usd": 153.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Azerbaijan"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/az/"
     },
     {
       "destination": "Tunisia",
       "price_usd": 176.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Tunisia"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/tn/"
     },
     {
       "destination": "Saudi Arabia",
       "price_usd": 184.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Saudi%20Arabia"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/sa/"
     },
     {
       "destination": "Uzbekistan",
       "price_usd": 209.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Uzbekistan"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/uz/"
     },
     {
       "destination": "Cape Verde",
       "price_usd": 214.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Cape%20Verde"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/cv/"
     },
     {
       "destination": "India",
       "price_usd": 258.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20India"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/in/"
     },
     {
       "destination": "Kazakhstan",
       "price_usd": 260.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Kazakhstan"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/kz/"
     },
     {
       "destination": "Kyrgyzstan",
       "price_usd": 286.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Kyrgyzstan"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/kg/"
     },
     {
       "destination": "Ethiopia",
       "price_usd": 297.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Ethiopia"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/et/"
     },
     {
       "destination": "Tanzania",
       "price_usd": 340.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Tanzania"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/tz/"
     },
     {
       "destination": "Singapore",
       "price_usd": 344.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Singapore"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/sg/"
     },
     {
       "destination": "Thailand",
       "price_usd": 359.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Thailand"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/th/"
     },
     {
       "destination": "Maldives",
       "price_usd": 366.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Maldives"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/mv/"
     },
     {
       "destination": "Canada",
       "price_usd": 383.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Canada"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/ca/"
     },
     {
       "destination": "Sri Lanka",
       "price_usd": 384.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Sri%20Lanka"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/lk/"
     },
     {
       "destination": "Nepal",
       "price_usd": 391.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Nepal"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/np/"
     },
     {
       "destination": "South Korea",
       "price_usd": 395.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20South%20Korea"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/kr/"
     },
     {
       "destination": "United States",
       "price_usd": 406.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20United%20States"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/us/"
     },
     {
       "destination": "Vietnam",
       "price_usd": 411.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Vietnam"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/vn/"
     },
     {
       "destination": "South Africa",
       "price_usd": 416.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20South%20Africa"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/za/"
     },
     {
       "destination": "Kenya",
       "price_usd": 431.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Kenya"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/ke/"
     },
     {
       "destination": "Indonesia",
       "price_usd": 439.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Indonesia"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/id/"
     },
     {
       "destination": "Philippines",
       "price_usd": 440.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Philippines"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/ph/"
     },
     {
       "destination": "Malaysia",
       "price_usd": 445.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Malaysia"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/my/"
     },
     {
       "destination": "Colombia",
       "price_usd": 456.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Colombia"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/co/"
     },
     {
       "destination": "Mongolia",
       "price_usd": 467.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Mongolia"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/mn/"
     },
     {
       "destination": "Costa Rica",
       "price_usd": 470.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Costa%20Rica"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/cr/"
     },
     {
       "destination": "China",
       "price_usd": 476.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20China"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/cn/"
     },
     {
       "destination": "Brazil",
       "price_usd": 482.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Brazil"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/br/"
     },
     {
       "destination": "Japan",
       "price_usd": 484.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Japan"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/jp/"
     },
     {
       "destination": "Uganda",
       "price_usd": 487.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Uganda"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/ug/"
     },
     {
       "destination": "Taiwan",
       "price_usd": 495.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Taiwan"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/tw/"
     },
     {
       "destination": "Dominican Republic",
       "price_usd": 496.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Dominican%20Republic"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/do/"
     },
     {
       "destination": "Mauritius",
       "price_usd": 497.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Mauritius"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/mu/"
     },
     {
       "destination": "Seychelles",
       "price_usd": 502.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Seychelles"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/sc/"
     },
     {
       "destination": "Mexico",
       "price_usd": 518.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Mexico"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/mx/"
     },
     {
       "destination": "Venezuela",
       "price_usd": 534.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Venezuela"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/ve/"
     },
     {
       "destination": "El Salvador",
       "price_usd": 538.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20El%20Salvador"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/sv/"
     },
     {
       "destination": "Cambodia",
       "price_usd": 545.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Cambodia"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/kh/"
     },
     {
       "destination": "Panama",
       "price_usd": 549.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Panama"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/pa/"
     },
     {
       "destination": "Laos",
       "price_usd": 560.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Laos"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/la/"
     },
     {
       "destination": "Ghana",
       "price_usd": 560.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Ghana"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/gh/"
     },
     {
       "destination": "Cuba",
       "price_usd": 561.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Cuba"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/cu/"
     },
     {
       "destination": "Guatemala",
       "price_usd": 568.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Guatemala"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/gt/"
     },
     {
       "destination": "Australia",
       "price_usd": 568.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Australia"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/au/"
     },
     {
       "destination": "Argentina",
       "price_usd": 590.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Argentina"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/ar/"
     },
     {
       "destination": "Madagascar",
       "price_usd": 600.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Madagascar"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/mg/"
     },
     {
       "destination": "Ecuador",
       "price_usd": 603.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Ecuador"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/ec/"
     },
     {
       "destination": "Peru",
       "price_usd": 638.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Peru"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/pe/"
     },
     {
       "destination": "Jamaica",
       "price_usd": 638.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Jamaica"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/jm/"
     },
     {
       "destination": "Chile",
       "price_usd": 666.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Chile"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/cl/"
     },
     {
       "destination": "Nicaragua",
       "price_usd": 682.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Nicaragua"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/ni/"
     },
     {
       "destination": "Uruguay",
       "price_usd": 750.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Uruguay"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/uy/"
     },
     {
       "destination": "New Zealand",
       "price_usd": 796.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20New%20Zealand"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/nz/"
     }
   ]
 }
