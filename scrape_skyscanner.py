@@ -6,6 +6,7 @@
 import json
 import os
 import sys
+import urllib.parse
 from datetime import datetime, timezone
 
 import requests
@@ -61,9 +62,11 @@ def extract_deals(raw: dict) -> list:
                 .get("rawPrice")
             )
             if destination and price:
+                query = urllib.parse.quote(f"Flights from Tel Aviv to {destination}")
                 deals.append({
                     "destination": destination,
                     "price_usd": price,
+                    "url": f"https://www.google.com/travel/flights?q={query}",
                 })
         except AttributeError:
             continue
