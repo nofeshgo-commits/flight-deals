@@ -52,13 +52,11 @@ def extract_deals(raw: dict) -> list:
     except AttributeError:
         results = []
 
-    if results:
-        with open("skyscanner_raw_debug.json", "w", encoding="utf-8") as f:
-            json.dump(results[0], f, ensure_ascii=False, indent=2)
-
     for item in results:
         try:
-            destination = item.get("content", {}).get("location", {}).get("name")
+            location = item.get("content", {}).get("location", {})
+            destination = location.get("name")
+            sky_code = location.get("skyCode")
             price = (
                 item.get("content", {})
                 .get("flightQuotes", {})
@@ -66,11 +64,15 @@ def extract_deals(raw: dict) -> list:
                 .get("rawPrice")
             )
             if destination and price:
-                query = urllib.parse.quote(f"Flights from Tel Aviv to {destination}")
+                if sky_code:
+                    url = f"https://www.skyscanner.net/transport/flights/{FROM_ENTITY_ID.lower()}/{sky_code.lower()}/"
+                else:
+                    query = urllib.parse.quote(f"Flights from Tel Aviv to {destination}")
+                    url = f"https://www.google.com/travel/flights?q={query}"
                 deals.append({
                     "destination": destination,
                     "price_usd": price,
-                    "url": f"https://www.google.com/travel/flights?q={query}",
+                    "url": url,
                 })
         except AttributeError:
             continue
@@ -97,6 +99,11 @@ def main():
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
+
+    if not deals:
+        with open("skyscanner_raw_debug.json", "w", encoding="utf-8") as f:
+            json.dump(raw, f, ensure_ascii=False, indent=2)
+        print("לא נמצאו דילים - נשמר קובץ debug גולמי", file=sys.stderr)
 
     print(f"נשמרו {len(deals)} דילים ל-{OUTPUT_FILE}")
 
