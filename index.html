@@ -148,7 +148,7 @@
 <body>
 <div class="wrap">
   <header>
-    <p class="eyebrow">SECRETFLIGHTS · יציאות</p>
+    <p class="eyebrow">SECRETFLIGHTS + SKYSCANNER · יציאות</p>
     <h1>לוח דילים</h1>
     <div class="subline">
       <span class="dot" id="statusDot"></span>
@@ -161,14 +161,13 @@
   </div>
 
   <div class="setup-note" id="setupNote" style="display:none;">
-    כרגע מוצגים <strong>נתוני דוגמה</strong>. כדי לחבר נתונים חיים: הגדר את GitHub Actions
-    (ראה deals-workflow.yml), ואז עדכן את הכתובת בקוד ל-
-    <code>DEALS_JSON_URL</code> — לינק raw.githubusercontent.com לקובץ deals.json שלך.
+    כרגע מוצגים <strong>נתוני דוגמה</strong>.
   </div>
 </div>
 
 <script>
   const DEALS_JSON_URL = "https://raw.githubusercontent.com/nofeshgo-commits/flight-deals/main/deals.json";
+  const SKYSCANNER_JSON_URL = "https://raw.githubusercontent.com/nofeshgo-commits/flight-deals/main/skyscanner_deals.json";
 
   const SAMPLE_DEALS = {
     updated_at: new Date().toISOString(),
@@ -178,13 +177,7 @@
       { destination: "ישראייר", price_usd: 132, raw_text: "יולי 2026", url: "https://secretflights.co.il/israir-flights/" },
       { destination: "לונדון", price_usd: 148, raw_text: "מגוון חודשים", url: "https://secretflights.co.il/flights-to-london/" },
       { destination: "יוון", price_usd: 146, raw_text: "יולי 2026", url: "https://secretflights.co.il/flights-to-greece/" },
-      { destination: "רומא", price_usd: 165, raw_text: "יולי 2026", url: "https://secretflights.co.il/flights-to-rome/" },
-      { destination: "אוסטריה", price_usd: 163, raw_text: "יולי 2026", url: "https://secretflights.co.il/flights-to-austria/" },
-      { destination: "סיציליה", price_usd: 168, raw_text: "יולי 2026", url: "https://secretflights.co.il/flights-to-sicily/" },
-      { destination: "מיקונוס", price_usd: 175, raw_text: "יולי 2026", url: "https://secretflights.co.il/flights-to-mykonos/" },
-      { destination: "פורטו", price_usd: 347, raw_text: "נוב 2026 – פבר 2027", url: "https://secretflights.co.il/flights-to-porto/" },
-      { destination: "מיאמי", price_usd: 775, raw_text: "נוב 2026 – פבר 2027", url: "https://secretflights.co.il/flights-to-miami/" },
-      { destination: "סן פרנסיסקו", price_usd: 777, raw_text: "ספט–אוק 2026", url: "https://secretflights.co.il/flights-to-san-francisco/" }
+      { destination: "רומא", price_usd: 165, raw_text: "יולי 2026", url: "https://secretflights.co.il/flights-to-rome/" }
     ]
   };
 
@@ -204,12 +197,12 @@
       board.innerHTML = `<div class="empty">לא נמצאו דילים כרגע. נסה שוב מאוחר יותר.</div>`;
     } else {
       board.innerHTML = deals.map(d => `
-        <a class="row" href="${d.url}" target="_blank" rel="noopener">
+        <a class="row" href="${d.url || '#'}" target="_blank" rel="noopener">
           <div>
             <div class="dest">${d.destination || d.raw_text}</div>
-            <div class="meta">${d.raw_text || ""}</div>
+            <div class="meta">${d.raw_text ? d.raw_text + " · " : ""}${d.source || ""}</div>
           </div>
-          <div class="price">$${d.price_usd}</div>
+          <div class="price">$${Math.round(d.price_usd)}</div>
         </a>
       `).join("");
     }
@@ -221,19 +214,39 @@
     document.getElementById("setupNote").style.display = isSample ? "block" : "none";
   }
 
-  async function loadDeals() {
-    if (DEALS_JSON_URL) {
-      try {
-        const res = await fetch(DEALS_JSON_URL, { cache: "no-store" });
-        if (!res.ok) throw new Error("bad response");
-        const data = await res.json();
-        renderDeals(data, { isSample: false });
-        return;
-      } catch (e) {
-        console.warn("נכשל בטעינת נתונים חיים, מציג דוגמה:", e);
-      }
+  async function fetchSource(url, sourceLabel) {
+    try {
+      const res = await fetch(url, { cache: "no-store" });
+      if (!res.ok) throw new Error("bad response");
+      const data = await res.json();
+      return (data.deals || []).map(d => ({ ...d, source: sourceLabel, updated_at: data.updated_at }));
+    } catch (e) {
+      console.warn(`נכשל בטעינת ${sourceLabel}:`, e);
+      return null;
     }
-    renderDeals(SAMPLE_DEALS, { isSample: true });
+  }
+
+  async function loadDeals() {
+    const [secretResults, skyResults] = await Promise.all([
+      fetchSource(DEALS_JSON_URL, "טיסות סודיות"),
+      fetchSource(SKYSCANNER_JSON_URL, "Skyscanner"),
+    ]);
+
+    if (secretResults === null && skyResults === null) {
+      renderDeals(SAMPLE_DEALS, { isSample: true });
+      return;
+    }
+
+    const combined = [...(secretResults || []), ...(skyResults || [])];
+    const latestUpdate = combined.reduce((max, d) => {
+      const t = new Date(d.updated_at || 0).getTime();
+      return t > max ? t : max;
+    }, 0);
+
+    renderDeals(
+      { deals: combined, updated_at: new Date(latestUpdate).toISOString() },
+      { isSample: false }
+    );
   }
 
   loadDeals();
