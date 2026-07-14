@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="mobile-web-app-capable" content="yes">
+<title>לוח דילים</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700;800&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #12151b;
+    --panel: #1b2029;
+    --panel-hi: #232a36;
+    --amber: #ffb020;
+    --teal: #3ec1d3;
+    --text: #e8eaed;
+    --muted: #7d8696;
+    --line: #2a3140;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Heebo', sans-serif;
+    min-height: 100vh;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .wrap { max-width: 480px; margin: 0 auto; padding: 0 0 40px; }
+
+  header {
+    padding: 28px 20px 18px;
+    border-bottom: 1px solid var(--line);
+    position: sticky; top: 0;
+    background: linear-gradient(var(--bg) 85%, transparent);
+    z-index: 5;
+  }
+  .eyebrow {
+    font-family: 'Space Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    color: var(--teal);
+    text-transform: uppercase;
+    margin: 0 0 6px;
+  }
+  h1 {
+    margin: 0;
+    font-size: 26px;
+    font-weight: 800;
+    letter-spacing: -0.01em;
+  }
+  .subline {
+    color: var(--muted);
+    font-size: 13px;
+    margin-top: 6px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .dot {
+    width: 7px; height: 7px; border-radius: 50%;
+    background: #3ecf6f;
+    box-shadow: 0 0 0 3px rgba(62,207,111,0.15);
+    flex-shrink: 0;
+  }
+  .dot.stale { background: var(--muted); box-shadow: none; }
+
+  .board { padding: 10px 14px 0; }
+  .row {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+    gap: 4px;
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 14px 16px;
+    margin-bottom: 10px;
+    opacity: 0;
+    transform: translateY(6px);
+    animation: flip-in 0.5s ease forwards;
+  }
+  .row:nth-child(1) { animation-delay: 0.02s; }
+  .row:nth-child(2) { animation-delay: 0.06s; }
+  .row:nth-child(3) { animation-delay: 0.10s; }
+  .row:nth-child(4) { animation-delay: 0.14s; }
+  .row:nth-child(5) { animation-delay: 0.18s; }
+  .row:nth-child(n+6) { animation-delay: 0.22s; }
+  @keyframes flip-in {
+    from { opacity: 0; transform: translateY(6px) scaleY(0.92); }
+    to   { opacity: 1; transform: translateY(0) scaleY(1); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .row { animation: none; opacity: 1; transform: none; }
+  }
+
+  .row a { color: inherit; text-decoration: none; display: contents; }
+  .dest { font-size: 16px; font-weight: 700; }
+  .meta { font-size: 12.5px; color: var(--muted); margin-top: 3px; }
+  .price {
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 20px;
+    color: var(--amber);
+    background: var(--panel-hi);
+    border-radius: 7px;
+    padding: 6px 10px;
+    white-space: nowrap;
+  }
+
+  .empty, .loading {
+    text-align: center;
+    color: var(--muted);
+    padding: 60px 20px;
+    font-size: 14px;
+    line-height: 1.7;
+  }
+  .loading .spin {
+    width: 20px; height: 20px;
+    border: 2px solid var(--line);
+    border-top-color: var(--teal);
+    border-radius: 50%;
+    margin: 0 auto 14px;
+    animation: spin 0.8s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .setup-note {
+    margin: 16px 14px 0;
+    padding: 14px 16px;
+    background: var(--panel);
+    border: 1px dashed var(--line);
+    border-radius: 10px;
+    font-size: 12.5px;
+    color: var(--muted);
+    line-height: 1.8;
+  }
+  .setup-note code {
+    font-family: 'Space Mono', monospace;
+    color: var(--teal);
+    font-size: 11.5px;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <p class="eyebrow">SECRETFLIGHTS · יציאות</p>
+    <h1>לוח דילים</h1>
+    <div class="subline">
+      <span class="dot" id="statusDot"></span>
+      <span id="statusText">טוען...</span>
+    </div>
+  </header>
+
+  <div class="board" id="board">
+    <div class="loading"><div class="spin"></div>מחפש טיסות זולות...</div>
+  </div>
+
+  <div class="setup-note" id="setupNote" style="display:none;">
+    כרגע מוצגים <strong>נתוני דוגמה</strong>. כדי לחבר נתונים חיים: הגדר את GitHub Actions
+    (ראה deals-workflow.yml), ואז עדכן את הכתובת בקוד ל-
+    <code>DEALS_JSON_URL</code> — לינק raw.githubusercontent.com לקובץ deals.json שלך.
+  </div>
+</div>
+
+<script>
+  const DEALS_JSON_URL = "https://raw.githubusercontent.com/nofeshgo-commits/flight-deals/main/deals.json";
+
+  const SAMPLE_DEALS = {
+    updated_at: new Date().toISOString(),
+    deals: [
+      { destination: "אתונה", price_usd: 90, raw_text: "אוקטובר–דצמבר 2026", url: "https://secretflights.co.il/flights-to-athens/" },
+      { destination: "מילאנו", price_usd: 117, raw_text: "מגוון חודשים", url: "https://secretflights.co.il/flights-to-milan/" },
+      { destination: "ישראייר", price_usd: 132, raw_text: "יולי 2026", url: "https://secretflights.co.il/israir-flights/" },
+      { destination: "לונדון", price_usd: 148, raw_text: "מגוון חודשים", url: "https://secretflights.co.il/flights-to-london/" },
+      { destination: "יוון", price_usd: 146, raw_text: "יולי 2026", url: "https://secretflights.co.il/flights-to-greece/" },
+      { destination: "רומא", price_usd: 165, raw_text: "יולי 2026", url: "https://secretflights.co.il/flights-to-rome/" },
+      { destination: "אוסטריה", price_usd: 163, raw_text: "יולי 2026", url: "https://secretflights.co.il/flights-to-austria/" },
+      { destination: "סיציליה", price_usd: 168, raw_text: "יולי 2026", url: "https://secretflights.co.il/flights-to-sicily/" },
+      { destination: "מיקונוס", price_usd: 175, raw_text: "יולי 2026", url: "https://secretflights.co.il/flights-to-mykonos/" },
+      { destination: "פורטו", price_usd: 347, raw_text: "נוב 2026 – פבר 2027", url: "https://secretflights.co.il/flights-to-porto/" },
+      { destination: "מיאמי", price_usd: 775, raw_text: "נוב 2026 – פבר 2027", url: "https://secretflights.co.il/flights-to-miami/" },
+      { destination: "סן פרנסיסקו", price_usd: 777, raw_text: "ספט–אוק 2026", url: "https://secretflights.co.il/flights-to-san-francisco/" }
+    ]
+  };
+
+  function timeAgo(iso) {
+    const diffMin = Math.round((Date.now() - new Date(iso)) / 60000);
+    if (diffMin < 60) return `עודכן לפני ${diffMin} דק׳`;
+    const h = Math.round(diffMin / 60);
+    if (h < 24) return `עודכן לפני ${h} שע׳`;
+    return `עודכן לפני ${Math.round(h / 24)} ימים`;
+  }
+
+  function renderDeals(data, { isSample }) {
+    const board = document.getElementById("board");
+    const deals = (data.deals || []).slice().sort((a, b) => a.price_usd - b.price_usd);
+
+    if (!deals.length) {
+      board.innerHTML = `<div class="empty">לא נמצאו דילים כרגע. נסה שוב מאוחר יותר.</div>`;
+    } else {
+      board.innerHTML = deals.map(d => `
+        <a class="row" href="${d.url}" target="_blank" rel="noopener">
+          <div>
+            <div class="dest">${d.destination || d.raw_text}</div>
+            <div class="meta">${d.raw_text || ""}</div>
+          </div>
+          <div class="price">$${d.price_usd}</div>
+        </a>
+      `).join("");
+    }
+
+    document.getElementById("statusDot").classList.toggle("stale", isSample);
+    document.getElementById("statusText").textContent = isSample
+      ? "נתוני דוגמה — לא מחובר עדיין"
+      : timeAgo(data.updated_at);
+    document.getElementById("setupNote").style.display = isSample ? "block" : "none";
+  }
+
+  async function loadDeals() {
+    if (DEALS_JSON_URL) {
+      try {
+        const res = await fetch(DEALS_JSON_URL, { cache: "no-store" });
+        if (!res.ok) throw new Error("bad response");
+        const data = await res.json();
+        renderDeals(data, { isSample: false });
+        return;
+      } catch (e) {
+        console.warn("נכשל בטעינת נתונים חיים, מציג דוגמה:", e);
+      }
+    }
+    renderDeals(SAMPLE_DEALS, { isSample: true });
+  }
+
+  loadDeals();
+</script>
+</body>
+</html>
