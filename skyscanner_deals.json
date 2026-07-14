@@ -1,0 +1,400 @@
+{
+  "source": "Skyscanner (via Flights Scraper Sky API)",
+  "from": "TLV",
+  "updated_at": "2026-07-14T04:08:12.514683+00:00",
+  "deals_count": 98,
+  "deals": [
+    {
+      "destination": "Cyprus",
+      "price_usd": 21.0
+    },
+    {
+      "destination": "Italy",
+      "price_usd": 40.0
+    },
+    {
+      "destination": "Greece",
+      "price_usd": 49.0
+    },
+    {
+      "destination": "Bulgaria",
+      "price_usd": 57.0
+    },
+    {
+      "destination": "Armenia",
+      "price_usd": 61.0
+    },
+    {
+      "destination": "Hungary",
+      "price_usd": 62.0
+    },
+    {
+      "destination": "Poland",
+      "price_usd": 63.0
+    },
+    {
+      "destination": "United Kingdom",
+      "price_usd": 66.0
+    },
+    {
+      "destination": "Slovakia",
+      "price_usd": 67.0
+    },
+    {
+      "destination": "Romania",
+      "price_usd": 68.0
+    },
+    {
+      "destination": "Czechia",
+      "price_usd": 69.0
+    },
+    {
+      "destination": "Albania",
+      "price_usd": 70.0
+    },
+    {
+      "destination": "Lithuania",
+      "price_usd": 72.0
+    },
+    {
+      "destination": "Spain",
+      "price_usd": 73.0
+    },
+    {
+      "destination": "Serbia",
+      "price_usd": 75.0
+    },
+    {
+      "destination": "Malta",
+      "price_usd": 78.0
+    },
+    {
+      "destination": "Germany",
+      "price_usd": 84.0
+    },
+    {
+      "destination": "France",
+      "price_usd": 85.0
+    },
+    {
+      "destination": "Morocco",
+      "price_usd": 85.0
+    },
+    {
+      "destination": "North Macedonia",
+      "price_usd": 85.0
+    },
+    {
+      "destination": "Montenegro",
+      "price_usd": 87.0
+    },
+    {
+      "destination": "Austria",
+      "price_usd": 87.0
+    },
+    {
+      "destination": "Georgia",
+      "price_usd": 90.0
+    },
+    {
+      "destination": "Croatia",
+      "price_usd": 92.0
+    },
+    {
+      "destination": "Bosnia and Herzegovina",
+      "price_usd": 93.0
+    },
+    {
+      "destination": "Switzerland",
+      "price_usd": 93.0
+    },
+    {
+      "destination": "Türkiye (Turkey)",
+      "price_usd": 95.0
+    },
+    {
+      "destination": "Netherlands",
+      "price_usd": 96.0
+    },
+    {
+      "destination": "United Arab Emirates",
+      "price_usd": 96.0
+    },
+    {
+      "destination": "Belgium",
+      "price_usd": 97.0
+    },
+    {
+      "destination": "Norway",
+      "price_usd": 97.0
+    },
+    {
+      "destination": "Denmark",
+      "price_usd": 97.0
+    },
+    {
+      "destination": "Luxembourg",
+      "price_usd": 98.0
+    },
+    {
+      "destination": "Portugal",
+      "price_usd": 99.0
+    },
+    {
+      "destination": "Latvia",
+      "price_usd": 100.0
+    },
+    {
+      "destination": "Sweden",
+      "price_usd": 100.0
+    },
+    {
+      "destination": "Ireland",
+      "price_usd": 101.0
+    },
+    {
+      "destination": "Estonia",
+      "price_usd": 109.0
+    },
+    {
+      "destination": "Iceland",
+      "price_usd": 117.0
+    },
+    {
+      "destination": "Jordan",
+      "price_usd": 121.0
+    },
+    {
+      "destination": "Egypt",
+      "price_usd": 122.0
+    },
+    {
+      "destination": "Berlin",
+      "price_usd": 135.0
+    },
+    {
+      "destination": "Slovenia",
+      "price_usd": 141.0
+    },
+    {
+      "destination": "Finland",
+      "price_usd": 152.0
+    },
+    {
+      "destination": "Azerbaijan",
+      "price_usd": 153.0
+    },
+    {
+      "destination": "Saudi Arabia",
+      "price_usd": 183.0
+    },
+    {
+      "destination": "Tunisia",
+      "price_usd": 192.0
+    },
+    {
+      "destination": "Uzbekistan",
+      "price_usd": 208.0
+    },
+    {
+      "destination": "Cape Verde",
+      "price_usd": 213.0
+    },
+    {
+      "destination": "India",
+      "price_usd": 256.0
+    },
+    {
+      "destination": "Kazakhstan",
+      "price_usd": 259.0
+    },
+    {
+      "destination": "Kyrgyzstan",
+      "price_usd": 284.0
+    },
+    {
+      "destination": "Ethiopia",
+      "price_usd": 297.0
+    },
+    {
+      "destination": "Tanzania",
+      "price_usd": 339.0
+    },
+    {
+      "destination": "Singapore",
+      "price_usd": 343.0
+    },
+    {
+      "destination": "Maldives",
+      "price_usd": 364.0
+    },
+    {
+      "destination": "Thailand",
+      "price_usd": 364.0
+    },
+    {
+      "destination": "Nepal",
+      "price_usd": 367.0
+    },
+    {
+      "destination": "Canada",
+      "price_usd": 381.0
+    },
+    {
+      "destination": "Sri Lanka",
+      "price_usd": 382.0
+    },
+    {
+      "destination": "South Korea",
+      "price_usd": 393.0
+    },
+    {
+      "destination": "United States",
+      "price_usd": 405.0
+    },
+    {
+      "destination": "Vietnam",
+      "price_usd": 409.0
+    },
+    {
+      "destination": "South Africa",
+      "price_usd": 415.0
+    },
+    {
+      "destination": "Kenya",
+      "price_usd": 430.0
+    },
+    {
+      "destination": "Indonesia",
+      "price_usd": 438.0
+    },
+    {
+      "destination": "Philippines",
+      "price_usd": 440.0
+    },
+    {
+      "destination": "Malaysia",
+      "price_usd": 443.0
+    },
+    {
+      "destination": "Colombia",
+      "price_usd": 454.0
+    },
+    {
+      "destination": "Mongolia",
+      "price_usd": 465.0
+    },
+    {
+      "destination": "Costa Rica",
+      "price_usd": 468.0
+    },
+    {
+      "destination": "China",
+      "price_usd": 474.0
+    },
+    {
+      "destination": "Brazil",
+      "price_usd": 484.0
+    },
+    {
+      "destination": "Uganda",
+      "price_usd": 485.0
+    },
+    {
+      "destination": "Japan",
+      "price_usd": 492.0
+    },
+    {
+      "destination": "Dominican Republic",
+      "price_usd": 494.0
+    },
+    {
+      "destination": "Taiwan",
+      "price_usd": 494.0
+    },
+    {
+      "destination": "Mauritius",
+      "price_usd": 495.0
+    },
+    {
+      "destination": "Seychelles",
+      "price_usd": 500.0
+    },
+    {
+      "destination": "Mexico",
+      "price_usd": 516.0
+    },
+    {
+      "destination": "Venezuela",
+      "price_usd": 533.0
+    },
+    {
+      "destination": "El Salvador",
+      "price_usd": 536.0
+    },
+    {
+      "destination": "Cambodia",
+      "price_usd": 543.0
+    },
+    {
+      "destination": "Panama",
+      "price_usd": 547.0
+    },
+    {
+      "destination": "Laos",
+      "price_usd": 558.0
+    },
+    {
+      "destination": "Ghana",
+      "price_usd": 558.0
+    },
+    {
+      "destination": "Cuba",
+      "price_usd": 559.0
+    },
+    {
+      "destination": "Guatemala",
+      "price_usd": 566.0
+    },
+    {
+      "destination": "Australia",
+      "price_usd": 566.0
+    },
+    {
+      "destination": "Argentina",
+      "price_usd": 588.0
+    },
+    {
+      "destination": "Madagascar",
+      "price_usd": 597.0
+    },
+    {
+      "destination": "Ecuador",
+      "price_usd": 600.0
+    },
+    {
+      "destination": "Peru",
+      "price_usd": 635.0
+    },
+    {
+      "destination": "Jamaica",
+      "price_usd": 636.0
+    },
+    {
+      "destination": "Chile",
+      "price_usd": 664.0
+    },
+    {
+      "destination": "Nicaragua",
+      "price_usd": 679.0
+    },
+    {
+      "destination": "Uruguay",
+      "price_usd": 740.0
+    },
+    {
+      "destination": "New Zealand",
+      "price_usd": 793.0
+    }
+  ]
+}
