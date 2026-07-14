@@ -1,7 +1,7 @@
 {
   "source": "Skyscanner (via Flights Scraper Sky API)",
   "from": "TLV",
-  "updated_at": "2026-07-14T16:23:03.273284+00:00",
+  "updated_at": "2026-07-14T16:31:31.927199+00:00",
   "deals_count": 98,
   "deals": [
     {
@@ -88,11 +88,6 @@
       "destination": "Malta",
       "price_usd": 78.0,
       "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Malta"
-    },
-    {
-      "destination": "Frankfurt",
-      "price_usd": 84.0,
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Frankfurt"
     },
     {
       "destination": "Germany",
@@ -223,6 +218,11 @@
       "destination": "Finland",
       "price_usd": 141.0,
       "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Finland"
+    },
+    {
+      "destination": "Munich",
+      "price_usd": 148.0,
+      "url": "https://www.google.com/travel/flights?q=Flights%20from%20Tel%20Aviv%20to%20Munich"
     },
     {
       "destination": "Azerbaijan",

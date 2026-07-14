@@ -1,0 +1,77 @@
+{
+  "id": "location-27545034",
+  "type": "LOCATION",
+  "content": {
+    "location": {
+      "id": "27545034",
+      "skyCode": "MUNI",
+      "name": "Munich",
+      "type": "City",
+      "continent": {
+        "code": "EU",
+        "name": "Europe"
+      }
+    },
+    "flightQuotes": {
+      "cheapest": {
+        "price": "$148",
+        "rawPrice": 148.0,
+        "direct": true
+      },
+      "direct": {
+        "price": "$148",
+        "rawPrice": 148.0,
+        "direct": true
+      }
+    },
+    "image": {
+      "url": "https://content.skyscnr.com/504337a01179e66d8519af2b0a30a9db/GettyImages-495695621.jpg"
+    },
+    "inlineCreative": {
+      "creativeFields": {
+        "partnerLogo": {
+          "url": "https://content.skyscnr.com/m/65602abc96ae90b0/original/GNTB-Logo-Tagline-Colour.png"
+        },
+        "brandMessage": "Stay a little longer, see a lot more, in Bavaria’s grand capital.",
+        "locationImageDesktop": {
+          "url": "https://content.skyscnr.com/m/c61f863b69fa353e/original/PS-303-German-NTO-Q425-DestinationSpotlight-1-Desktop-Image.png"
+        },
+        "locationImageMobile": {
+          "url": "https://content.skyscnr.com/m/a17cd1eaffac6456/original/PS-303-German-NTO-Q425-DestinationSpotlight-1-Mobile-Image.png"
+        },
+        "partnerName": "German National Tourist Board",
+        "partnerBillingInfo": {
+          "pioPartnerName": "German National Tourist Office (New York Branch) US (USD)"
+        }
+      },
+      "trackingContext": {
+        "idCreative": "CAM-02c2caf0-5a9a-442d-8ea6-12a644067a41",
+        "idPlacement": "mobile.flights.browseview/everywhere_inline",
+        "idFormat": "fmt.browseCityHighlight",
+        "idTracking": "09bc14f1-dcd7-480a-959d-bd919a921286"
+      },
+      "trackingPixels": {
+        "impression": [
+          "/g/aps/public/api/v1/pixel/impression?encryptedData=ATBbIghO46zM1Jb8yiHYQgDq2zp0iBRPZD3%2Brkyl4widVcM9oYv%2Fl823vsqNPXiVuy%2BGVjVmLgdDIaHgX5UcyeCqC9Du1yQhSk5FMECm7hLxfQojp18xB33Xl%2FPORKn%2FRKB5IZSa2lxWn0CcvpIF78VioKfR%2BZPFAHKIVUOpe%2Bb31juV16I1IxcKgSOCCNVWEIOYXuDgkjwVgIR3Ek07vi6dFpaw%2BhQlZ72Jqjq5StWWSHZNDLv2muDmP27jan2bInWq2a37IN9JpEyFjP0Lr9pfmH16MJeLmCedmb6xe0ZVbX2CWeKoUYd289Akb43JnPRk87InLYd0AaDleyMIHzH0wFqUKbuHG8f3nboYU5Bpa9H7rlbq%2B3%2BsvlVbRQ%3D%3D"
+        ],
+        "click": [
+          "/g/aps/public/api/v1/pixel/click?encryptedData=Acqm6jCOfyT9Hqp%2Baefwxp3z5vgTSfSTn%2FICvHvxlDJarQfodJYszEJGnmysYjkwQEgYWy4vpBfgzNxIorvZoQv2%2FO4flF8uwwBU%2BOg%2FjdLgHFiHtWGq27WFZpICdnPnDe5P8nBD2%2BvdmkFiEKSBupis3lzKGingLVPcgk9A1Kal0Utu%2F6%2F8sQzCNGB00HKKbLyet%2BO9jaAUcpiF29iD9og2mZHBYsd9dsgyhYY0O7yQjRP6mJbDgCGCdRweAIuAxDj%2FHtUtLU0hv1XbwACn1rP6IqBUT7M4Wc9sD2u71wLn3LFPaEpPeEo5oqBwgiOQ0AHKheZJ03HJICv4QUbIkCxQg4D4LYcpdVgy%2FjL6%2BUG%2FkQi6UTW4ySfOM%2FFh%2BOtxHDdXhCAeluOiMpItBeW7SyA7qpLUfAjzIv%2FJpH1cfjzbEQ%3D%3D"
+        ],
+        "view": [
+          "/g/aps/public/api/v1/pixel/view?encryptedData=AUza257tm1CJjZ%2BORLTyzcNL7kznBMoSqjnL7lwezdaqM%2BaV1p0XKXKhQgnGQ3rMNtDQyE2OYj%2Bf%2BpkXULoO3Ya2MFTncgR1oUmALHBsi4k6dnqlF5Rw8Zu3mAw11jWQzkhWl8ti8hdWDnnnTe96jSwipGDfE%2Ba3Ntj%2BKIThvUb9%2FMSCo%2FW1LTW8cdGNyFieksg%2B1d5wDYiABDROdT10BngR53kZ7%2F%2BTk8HEjcH7KyJn6Vfr87BrZ5UnBJ%2F2fTZhg02JbVQ7ppv5Uy1hyjY%2BCZwblCnY59GpmzJsTjgfHvWr9bJkCpiP%2B%2Ft6rdiTJPbdETe%2FoBDht%2BgbCW39tQJCFPN09%2FTcJi4mS34zFePc5csi2fX5wdPTHPn%2FjFPNRPVshkHX68jUUr8PznHCuhGMIesZ0xUeQmY8dImvtaqSKjFubQ%3D%3D"
+        ],
+        "engage": [
+          "/g/aps/public/api/v1/pixel/engage?encryptedData=AVstNjOBfUWm3gl6%2FKyoT706akf%2FyweLOMfyv21NQ4Rv4FfPa0mVm43myuhegNbwH0PJkJhI7X4CRfkXeGwCK9wdcpAoS66To2ld8WXc0Fi5IAn4YWFWH0beHBtEa%2FPbXoUsHhj2l%2FvxaVAYg6lM5mCj%2F%2BBIbHtCMXoJXmHysko0i2BYpk56F%2B4i0s%2Ftt7dbK0%2FERH5g%2FnBUihFnYx7jP2C6ZTJn%2FtbikU%2FaCkaWGW7PfDeaHA9M9cXkBvWuZhIdF9UDA8uUc%2B%2FR5Tsyh0ZDa4z4a%2FPeyMSvhEW%2Bfhe8HbqUgxBQBZGA0GG8SrA%2B1qVYMezVq32wNl2gF23uYLpvF1xSuIUj%2FF%2Bifd4D%2FxXyfB9RfyP5IoZ1FcZYM9aUoy4pcR1Gfwd74b%2BIal9M7syYLs07VgFW6PwBpMxQ0n%2F32sHZ3g%3D%3D"
+        ]
+      },
+      "performanceEventsPayloads": {
+        "impression": "AY0B6nhTiggTRMADygpLunbSlTYaq3gq/MBWldCwuqyoH2L14xg+0Plh7GCwQ5U0j8vwwuP3Byz4vtwZBuO4K2DXRi91KHFbvax9QHhCoST3Zb38h96ROEFdP4+5dDQ7c+svodZdWPnv4Sjhw3Pw/VWorbZXIel0Hdxn3D3QOpkJX7lCM1D3VqyELQ15ayk+ithUAfQUCB5pQ8E/w1+wRfsVK4Tk6eSqZz8fhIvFHGX+z3axqX4jnfRL08WBWY8yf+OACjbmiATqi22a+cLXfIQCfN82vryMqwWXUHcI4OPrQOIrlWOsoLIq5D+ZUZuaPFd+/abxGvMP/gIbiIs5qdIXiy9/oHxL/JqE1fBkAVEboZkL9qBir3bHxb4PtJ5q",
+        "click": "AYFempfH+nb2ftEBxjlVVpaup1mAxE6ON/vRVl9Rfs764eapXCQL6cYAiZD9zsOgRXFjuTN85pKJTxny1dtWgB7k2uBqchNlPjj0p0/ulMNyay/G508BcM3MooboyLcT3eukOORHHk94ycxm7Q6AcGkA9jkJJulAq0Oj5kj0h/2lHoa8ap/zrAVMsXnTOL4IVJrysUB4i8n7WlkrP184k6Hk77UFOK3GvoNk6jVom79W7PZmBK3p3Y2gKL8S95oyzzeGaN8N8H4fw6xHpvXHQY8i5HnaH49edre81E9d3GYkKHrCoQYA9rL0dN4vWy8MkpS/a+bItT4zbO2pe08Ey6ZBGPiS/QClgbXXZMuSOf2Yxxz5OvouuTA3LNsu3pdIwZ+hnBhxlRuXVl3LnNftrbUN40qGud2T7iPUK434k6jomr+c",
+        "view": "AQl7V9NRckW9CM1OlsDS5sv98IWHI0C0/Z3LfUBGTjLEEoLK0CLIPI0SLD0epcAS85OrfICWap7UJEuH4uxSX522uNmyTsJCZsiyBOMnkPQplLXu3pvL0wPMUrU6rsR7MIo8grr0uupoyvR4U4RVQhXGjKQEQudJZheEgZ+tSqpFn0dr52dBLO5N57Zj7cDUAFt0tCp+/mSlp+ymcoq4W6Ej9suTRWUSmwL1B7A3vqgscINC1t9NGqeBS7jfuKD1Tu8uxBvxp1pN0SEOKo2rGuwFAnEqzDSz8aSYV00qw+fmNikots9q/SVc8jhLiZ4cxji9dmEOE/EcTpy4ZGlUrIr1uLXt/Lxi2nIa0HraQhZbzDDSor3sAXfdSAk2O/ns42WYiJUJI0LL2hdtWOtQtXKMQwbHl7HfeHH0oHhk6isLxrtG",
+        "engage": "AbxFjUVrw99XFlO95PkIZxNizEvshwk2oN8tlmQgLvBX8N2ReiaXfyyQiQSShYmeraHkh0X06C34/7bcdnFhqkL2oNI/XsCzOefqY+N+Q8Cq7XqO3IMRMYNXKvH4B9ETp4nwkrkYel9q1l4SDxaAZ2OZQf4NgNkwxK7motc2EqCramW9kxI4KfEHUPjawmhP9VIi2AZDe7pLAaFxGq0XWD62dPFuM5nG5xfF6KzXN7/A0Y/oywI1qXB2FQzJCMVh0iQSC/+4nl9ODD3GG1qdFjgNCE+WOhkHNZpdRA+aMVn62htCj25F51jsHXR8fiDzdWdb6+s+j9GTR1D6OnmFFUwH3f6s5r97InM7aG7ECqNXPHP+9F+AS6h0oSXyfZlNqt4V5sWH+S/R0AEHICEPP0LIhtYp0GyqeK39VCqSpU6FmNaC"
+      }
+    }
+  },
+  "entityId": "eyJlIjoiMjc1NDUwMzQiLCJzIjoiTVVOSSJ9",
+  "skyId": "MUNI"
+}
