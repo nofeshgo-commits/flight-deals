@@ -1,13 +1,19 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-07-14T09:30:02.420048+00:00",
+  "updated_at": "2026-07-14T16:42:31.391218+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לאתונה אוקטובר 2026 נובמבר 2026 דצמבר 2026 $86",
+      "raw_text": "פורסם לפני 3 ימים טיסות לאתונה אוקטובר 2026 נובמבר 2026 דצמבר 2026 $99",
       "destination": "אתונה",
-      "price_usd": 86,
+      "price_usd": 99,
       "url": "https://secretflights.co.il/flights-to-athens/"
+    },
+    {
+      "raw_text": "פורסם לפני יום 1 טיסות ליוון יולי 2026 $106",
+      "destination": "יוון",
+      "price_usd": 106,
+      "url": "https://secretflights.co.il/flights-to-greece/"
     },
     {
       "raw_text": "פורסם לפני 2 ימים טיסות למילאנו מגוון חודשים $126",
@@ -16,22 +22,28 @@
       "url": "https://secretflights.co.il/flights-to-milan/"
     },
     {
-      "raw_text": "פורסם לפני 17 שעות טיסות ישראייר יולי 2026 $132",
+      "raw_text": "פורסם לפני יום 1 טיסות ישראייר יולי 2026 $132",
       "destination": "ישראייר",
       "price_usd": 132,
       "url": "https://secretflights.co.il/israir-flights/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות ליוון יולי 2026 $147",
-      "destination": "יוון",
-      "price_usd": 147,
-      "url": "https://secretflights.co.il/flights-to-greece/"
+      "raw_text": "פורסם לפני 10 שעות טיסות לבודפשט יולי 2026 $139",
+      "destination": "בודפשט",
+      "price_usd": 139,
+      "url": "https://secretflights.co.il/flights-to-budapest/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות ללונדון מגוון חודשים $147",
+      "raw_text": "פורסם לפני 2 ימים טיסות ללונדון מגוון חודשים $149",
       "destination": "לונדון",
-      "price_usd": 147,
+      "price_usd": 149,
       "url": "https://secretflights.co.il/flights-to-london/"
+    },
+    {
+      "raw_text": "פורסם לפני 19 שעות טיסות לאיטליה יולי 2026 $163",
+      "destination": "איטליה",
+      "price_usd": 163,
+      "url": "https://secretflights.co.il/flights-to-italy/"
     },
     {
       "raw_text": "פורסם לפני 3 ימים טיסות לסיציליה יולי 2026 $163",
@@ -40,40 +52,28 @@
       "url": "https://secretflights.co.il/flights-to-sicily/"
     },
     {
-      "raw_text": "פורסם לפני 15 שעות טיסות לרומא יולי 2026 $164",
+      "raw_text": "פורסם לפני 23 שעות טיסות לרומא יולי 2026 $165",
       "destination": "רומא",
-      "price_usd": 164,
+      "price_usd": 165,
       "url": "https://secretflights.co.il/flights-to-rome/"
     },
     {
-      "raw_text": "פורסם לפני 3 שעות טיסות לבודפשט יולי 2026 $166",
-      "destination": "בודפשט",
-      "price_usd": 166,
-      "url": "https://secretflights.co.il/flights-to-budapest/"
-    },
-    {
-      "raw_text": "פורסם לפני 2 ימים טיסות לאוסטריה יולי 2026 $241",
+      "raw_text": "פורסם לפני 2 ימים טיסות לאוסטריה יולי 2026 $257",
       "destination": "אוסטריה",
-      "price_usd": 241,
+      "price_usd": 257,
       "url": "https://secretflights.co.il/flights-to-austria/"
     },
     {
-      "raw_text": "פורסם לפני 23 שעות טיסות לפורטו נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $347",
+      "raw_text": "פורסם לפני יום 1 טיסות לפורטו נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $344",
       "destination": "פורטו",
-      "price_usd": 347,
+      "price_usd": 344,
       "url": "https://secretflights.co.il/flights-to-porto/"
     },
     {
-      "raw_text": "פורסם לפני 18 שעות טיסות לסן פרנסיסקו ספטמבר 2026 אוקטובר 2026 $767",
+      "raw_text": "פורסם לפני יום 1 טיסות לסן פרנסיסקו ספטמבר 2026 אוקטובר 2026 $758",
       "destination": "סן פרנסיסקו",
-      "price_usd": 767,
+      "price_usd": 758,
       "url": "https://secretflights.co.il/flights-to-san-francisco/"
-    },
-    {
-      "raw_text": "פורסם לפני 4 ימים טיסות למיאמי נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $777",
-      "destination": "מיאמי",
-      "price_usd": 777,
-      "url": "https://secretflights.co.il/flights-to-miami/"
     }
   ]
 }
