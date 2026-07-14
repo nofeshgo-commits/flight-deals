@@ -1,7 +1,7 @@
 {
   "source": "Skyscanner (via Flights Scraper Sky API)",
   "from": "TLV",
-  "updated_at": "2026-07-14T04:08:12.514683+00:00",
+  "updated_at": "2026-07-14T11:12:43.025501+00:00",
   "deals_count": 98,
   "deals": [
     {
@@ -45,12 +45,12 @@
       "price_usd": 68.0
     },
     {
-      "destination": "Czechia",
+      "destination": "Albania",
       "price_usd": 69.0
     },
     {
-      "destination": "Albania",
-      "price_usd": 70.0
+      "destination": "Czechia",
+      "price_usd": 69.0
     },
     {
       "destination": "Lithuania",
@@ -113,7 +113,7 @@
       "price_usd": 95.0
     },
     {
-      "destination": "Netherlands",
+      "destination": "Belgium",
       "price_usd": 96.0
     },
     {
@@ -121,15 +121,15 @@
       "price_usd": 96.0
     },
     {
-      "destination": "Belgium",
-      "price_usd": 97.0
+      "destination": "Netherlands",
+      "price_usd": 96.0
     },
     {
       "destination": "Norway",
       "price_usd": 97.0
     },
     {
-      "destination": "Denmark",
+      "destination": "Portugal",
       "price_usd": 97.0
     },
     {
@@ -137,8 +137,8 @@
       "price_usd": 98.0
     },
     {
-      "destination": "Portugal",
-      "price_usd": 99.0
+      "destination": "Denmark",
+      "price_usd": 100.0
     },
     {
       "destination": "Latvia",
@@ -150,7 +150,7 @@
     },
     {
       "destination": "Ireland",
-      "price_usd": 101.0
+      "price_usd": 106.0
     },
     {
       "destination": "Estonia",
@@ -185,12 +185,12 @@
       "price_usd": 153.0
     },
     {
-      "destination": "Saudi Arabia",
-      "price_usd": 183.0
+      "destination": "Tunisia",
+      "price_usd": 175.0
     },
     {
-      "destination": "Tunisia",
-      "price_usd": 192.0
+      "destination": "Saudi Arabia",
+      "price_usd": 183.0
     },
     {
       "destination": "Uzbekistan",
@@ -202,7 +202,7 @@
     },
     {
       "destination": "India",
-      "price_usd": 256.0
+      "price_usd": 257.0
     },
     {
       "destination": "Kazakhstan",
@@ -214,7 +214,7 @@
     },
     {
       "destination": "Ethiopia",
-      "price_usd": 297.0
+      "price_usd": 296.0
     },
     {
       "destination": "Tanzania",
@@ -225,16 +225,12 @@
       "price_usd": 343.0
     },
     {
+      "destination": "Thailand",
+      "price_usd": 357.0
+    },
+    {
       "destination": "Maldives",
       "price_usd": 364.0
-    },
-    {
-      "destination": "Thailand",
-      "price_usd": 364.0
-    },
-    {
-      "destination": "Nepal",
-      "price_usd": 367.0
     },
     {
       "destination": "Canada",
@@ -243,6 +239,10 @@
     {
       "destination": "Sri Lanka",
       "price_usd": 382.0
+    },
+    {
+      "destination": "Nepal",
+      "price_usd": 393.0
     },
     {
       "destination": "South Korea",
@@ -293,16 +293,16 @@
       "price_usd": 474.0
     },
     {
+      "destination": "Japan",
+      "price_usd": 482.0
+    },
+    {
       "destination": "Brazil",
       "price_usd": 484.0
     },
     {
       "destination": "Uganda",
       "price_usd": 485.0
-    },
-    {
-      "destination": "Japan",
-      "price_usd": 492.0
     },
     {
       "destination": "Dominican Republic",
