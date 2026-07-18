@@ -1,12 +1,12 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-07-18T18:08:40.896884+00:00",
+  "updated_at": "2026-07-18T23:38:06.299397+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני יום 1 טיסות ללרנקה מגוון חודשים $56",
+      "raw_text": "פורסם לפני 2 ימים טיסות ללרנקה מגוון חודשים $57",
       "destination": "לרנקה",
-      "price_usd": 56,
+      "price_usd": 57,
       "url": "https://secretflights.co.il/flights-to-larnaca/"
     },
     {
@@ -22,37 +22,37 @@
       "url": "https://secretflights.co.il/flights-to-greece/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות למיקונוס יולי 2026 $109",
+      "raw_text": "פורסם לפני 2 ימים טיסות למיקונוס יולי 2026 $109",
       "destination": "מיקונוס",
       "price_usd": 109,
       "url": "https://secretflights.co.il/flights-to-mykonos/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לאלבניה יולי 2026 $120",
+      "raw_text": "פורסם לפני 3 ימים טיסות לאלבניה יולי 2026 $120",
       "destination": "אלבניה",
       "price_usd": 120,
       "url": "https://secretflights.co.il/flights-to-albania/"
     },
     {
-      "raw_text": "פורסם לפני 10 שעות טיסות למונטנגרו יולי 2026 $158",
+      "raw_text": "פורסם לפני 15 שעות טיסות למונטנגרו יולי 2026 $158",
       "destination": "מונטנגרו",
       "price_usd": 158,
       "url": "https://secretflights.co.il/flights-to-montenegro/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לטביליסי אוקטובר 2026 נובמבר 2026 $166",
+      "raw_text": "פורסם לפני 3 ימים טיסות לטביליסי אוקטובר 2026 נובמבר 2026 $166",
       "destination": "טביליסי",
       "price_usd": 166,
       "url": "https://secretflights.co.il/flights-to-tbilisi/"
     },
     {
-      "raw_text": "פורסם לפני 4 ימים טיסות לפראג יולי 2026 $239",
+      "raw_text": "פורסם לפני 4 ימים טיסות לפראג יולי 2026 $224",
       "destination": "פראג",
-      "price_usd": 239,
+      "price_usd": 224,
       "url": "https://secretflights.co.il/flights-to-prague/"
     },
     {
-      "raw_text": "פורסם לפני 8 שעות טיסות לזנזיבר נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $569",
+      "raw_text": "פורסם לפני 12 שעות טיסות לזנזיבר נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $569",
       "destination": "זנזיבר",
       "price_usd": 569,
       "url": "https://secretflights.co.il/flights-to-zanzibar/"
@@ -64,16 +64,16 @@
       "url": "https://secretflights.co.il/flights-to-seoul/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לפוקט ינואר 2027 פברואר 2027 מרץ 2027 $687",
-      "destination": "פוקט",
-      "price_usd": 687,
-      "url": "https://secretflights.co.il/flights-to-phuket/"
-    },
-    {
-      "raw_text": "פורסם לפני 18 דקות טיסות לבנגקוק מגוון חודשים $690",
+      "raw_text": "פורסם לפני 5 שעות טיסות לבנגקוק מגוון חודשים $690",
       "destination": "בנגקוק",
       "price_usd": 690,
       "url": "https://secretflights.co.il/flights-to-bangkok/"
+    },
+    {
+      "raw_text": "פורסם לפני 2 ימים טיסות לפוקט ינואר 2027 פברואר 2027 מרץ 2027 $691",
+      "destination": "פוקט",
+      "price_usd": 691,
+      "url": "https://secretflights.co.il/flights-to-phuket/"
     }
   ]
 }
