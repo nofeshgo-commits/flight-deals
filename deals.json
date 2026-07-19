@@ -1,43 +1,43 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-07-19T07:51:03.383041+00:00",
+  "updated_at": "2026-07-19T12:06:28.996518+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות ללרנקה מגוון חודשים $55",
+      "raw_text": "פורסם לפני 2 ימים טיסות ללרנקה מגוון חודשים $61",
       "destination": "לרנקה",
-      "price_usd": 55,
+      "price_usd": 61,
       "url": "https://secretflights.co.il/flights-to-larnaca/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לרודוס יולי 2026 $95",
+      "raw_text": "פורסם לפני 2 ימים טיסות לרודוס יולי 2026 $102",
       "destination": "רודוס",
-      "price_usd": 95,
+      "price_usd": 102,
       "url": "https://secretflights.co.il/flights-to-rhodes/"
     },
     {
-      "raw_text": "פורסם לפני 4 ימים טיסות ליוון יולי 2026 $95",
+      "raw_text": "פורסם לפני 4 ימים טיסות ליוון יולי 2026 $102",
       "destination": "יוון",
-      "price_usd": 95,
+      "price_usd": 102,
       "url": "https://secretflights.co.il/flights-to-greece/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות למיקונוס יולי 2026 $109",
-      "destination": "מיקונוס",
-      "price_usd": 109,
-      "url": "https://secretflights.co.il/flights-to-mykonos/"
-    },
-    {
-      "raw_text": "פורסם לפני 3 ימים טיסות לאלבניה יולי 2026 $120",
+      "raw_text": "פורסם לפני 3 ימים טיסות לאלבניה יולי 2026 $118",
       "destination": "אלבניה",
-      "price_usd": 120,
+      "price_usd": 118,
       "url": "https://secretflights.co.il/flights-to-albania/"
     },
     {
-      "raw_text": "פורסם לפני 23 שעות טיסות למונטנגרו יולי 2026 $158",
-      "destination": "מונטנגרו",
-      "price_usd": 158,
-      "url": "https://secretflights.co.il/flights-to-montenegro/"
+      "raw_text": "פורסם לפני 2 ימים טיסות למיקונוס יולי 2026 $125",
+      "destination": "מיקונוס",
+      "price_usd": 125,
+      "url": "https://secretflights.co.il/flights-to-mykonos/"
+    },
+    {
+      "raw_text": "פורסם לפני 2 שעות טיסות לאתונה יולי 2026 $134",
+      "destination": "אתונה",
+      "price_usd": 134,
+      "url": "https://secretflights.co.il/flights-to-athens/"
     },
     {
       "raw_text": "פורסם לפני 3 ימים טיסות לטביליסי אוקטובר 2026 נובמבר 2026 $166",
@@ -46,34 +46,34 @@
       "url": "https://secretflights.co.il/flights-to-tbilisi/"
     },
     {
-      "raw_text": "פורסם לפני 5 ימים טיסות לפראג יולי 2026 $258",
-      "destination": "פראג",
-      "price_usd": 258,
-      "url": "https://secretflights.co.il/flights-to-prague/"
+      "raw_text": "פורסם לפני יום 1 טיסות למונטנגרו יולי 2026 $191",
+      "destination": "מונטנגרו",
+      "price_usd": 191,
+      "url": "https://secretflights.co.il/flights-to-montenegro/"
     },
     {
-      "raw_text": "פורסם לפני 21 שעות טיסות לזנזיבר נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $568",
+      "raw_text": "פורסם לפני יום 1 טיסות לזנזיבר נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $568",
       "destination": "זנזיבר",
       "price_usd": 568,
       "url": "https://secretflights.co.il/flights-to-zanzibar/"
     },
     {
-      "raw_text": "פורסם לפני 4 ימים טיסות לסיאול מגוון חודשים $681",
+      "raw_text": "פורסם לפני 4 ימים טיסות לסיאול מגוון חודשים $684",
       "destination": "סיאול",
-      "price_usd": 681,
+      "price_usd": 684,
       "url": "https://secretflights.co.il/flights-to-seoul/"
     },
     {
-      "raw_text": "פורסם לפני 14 שעות טיסות לבנגקוק מגוון חודשים $687",
-      "destination": "בנגקוק",
-      "price_usd": 687,
-      "url": "https://secretflights.co.il/flights-to-bangkok/"
+      "raw_text": "פורסם לפני 3 ימים טיסות לפוקט ינואר 2027 פברואר 2027 מרץ 2027 $689",
+      "destination": "פוקט",
+      "price_usd": 689,
+      "url": "https://secretflights.co.il/flights-to-phuket/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לפוקט ינואר 2027 פברואר 2027 מרץ 2027 $690",
-      "destination": "פוקט",
+      "raw_text": "פורסם לפני 18 שעות טיסות לבנגקוק מגוון חודשים $690",
+      "destination": "בנגקוק",
       "price_usd": 690,
-      "url": "https://secretflights.co.il/flights-to-phuket/"
+      "url": "https://secretflights.co.il/flights-to-bangkok/"
     }
   ]
 }
