@@ -1,37 +1,31 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-07-21T21:45:22.771568+00:00",
+  "updated_at": "2026-07-22T09:17:24.128841+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 6 שעות טיסות לסיציליה מגוון חודשים $89",
+      "raw_text": "פורסם לפני 17 שעות טיסות לסיציליה מגוון חודשים $89",
       "destination": "סיציליה",
       "price_usd": 89,
       "url": "https://secretflights.co.il/flights-to-sicily/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לרודוס יולי 2026 $97",
-      "destination": "רודוס",
-      "price_usd": 97,
-      "url": "https://secretflights.co.il/flights-to-rhodes/"
-    },
-    {
-      "raw_text": "פורסם לפני 11 שעות טיסות לורונה יולי 2026 $113",
+      "raw_text": "פורסם לפני 23 שעות טיסות לורונה יולי 2026 $113",
       "destination": "ורונה",
       "price_usd": 113,
       "url": "https://secretflights.co.il/flights-to-verona/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לרומא אוקטובר 2026 נובמבר 2026 $118",
-      "destination": "רומא",
-      "price_usd": 118,
-      "url": "https://secretflights.co.il/flights-to-rome/"
+      "raw_text": "פורסם לפני 16 שעות טיסות בקיץ אוגוסט 2026 $117",
+      "destination": "בקיץ",
+      "price_usd": 117,
+      "url": "https://secretflights.co.il/summer-vacation-flights/"
     },
     {
-      "raw_text": "פורסם לפני 4 שעות טיסות בקיץ אוגוסט 2026 $134",
-      "destination": "בקיץ",
-      "price_usd": 134,
-      "url": "https://secretflights.co.il/summer-vacation-flights/"
+      "raw_text": "פורסם לפני 3 ימים טיסות לרומא אוקטובר 2026 נובמבר 2026 $122",
+      "destination": "רומא",
+      "price_usd": 122,
+      "url": "https://secretflights.co.il/flights-to-rome/"
     },
     {
       "raw_text": "פורסם לפני 2 ימים טיסות לבוקרשט ינואר 2027 פברואר 2027 מרץ 2027 $136",
@@ -40,37 +34,43 @@
       "url": "https://secretflights.co.il/flights-to-bucharest/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות ללונדון ינואר 2027 פברואר 2027 $148",
+      "raw_text": "פורסם לפני 2 ימים טיסות ללונדון ינואר 2027 פברואר 2027 $149",
       "destination": "לונדון",
-      "price_usd": 148,
+      "price_usd": 149,
       "url": "https://secretflights.co.il/flights-to-london/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לאתונה יולי 2026 $158",
-      "destination": "אתונה",
-      "price_usd": 158,
-      "url": "https://secretflights.co.il/flights-to-athens/"
+      "raw_text": "פורסם לפני 2 ימים טיסות לרודוס יולי 2026 אוגוסט 2026 $151",
+      "destination": "רודוס",
+      "price_usd": 151,
+      "url": "https://secretflights.co.il/flights-to-rhodes/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לסלוניקי יולי 2026 $184",
+      "raw_text": "פורסם לפני 43 דקות טיסות לקוס יולי 2026 $179",
+      "destination": "קוס",
+      "price_usd": 179,
+      "url": "https://secretflights.co.il/flights-to-kos/"
+    },
+    {
+      "raw_text": "פורסם לפני 3 ימים טיסות לסלוניקי יולי 2026 $183",
       "destination": "סלוניקי",
-      "price_usd": 184,
+      "price_usd": 183,
       "url": "https://secretflights.co.il/flights-to-thessaloniki/"
     },
     {
-      "raw_text": "פורסם לפני 9 שעות טיסות למרוקו ספטמבר 2026 אוקטובר 2026 $267",
+      "raw_text": "פורסם לפני 21 שעות טיסות למרוקו ספטמבר 2026 אוקטובר 2026 $204",
       "destination": "מרוקו",
-      "price_usd": 267,
+      "price_usd": 204,
       "url": "https://secretflights.co.il/flights-to-morocco/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות לניו יורק פברואר 2027 מרץ 2027 $818",
+      "raw_text": "פורסם לפני 2 ימים טיסות לניו יורק פברואר 2027 מרץ 2027 $817",
       "destination": "ניו יורק",
-      "price_usd": 818,
+      "price_usd": 817,
       "url": "https://secretflights.co.il/flights-to-new-york/"
     },
     {
-      "raw_text": "פורסם לפני 12 שעות טיסות ללוס אנג'לס ספטמבר 2026 אוקטובר 2026 $831",
+      "raw_text": "פורסם לפני 24 שעות טיסות ללוס אנג'לס ספטמבר 2026 אוקטובר 2026 $831",
       "destination": "לוס אנג'לס",
       "price_usd": 831,
       "url": "https://secretflights.co.il/flights-to-los-angeles/"
