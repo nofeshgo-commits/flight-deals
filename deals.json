@@ -1,14 +1,8 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-07-25T12:10:49.270696+00:00",
+  "updated_at": "2026-07-25T18:07:48.279381+00:00",
   "deals_count": 12,
   "deals": [
-    {
-      "raw_text": "פורסם לפני 4 ימים טיסות לסיציליה מגוון חודשים $86",
-      "destination": "סיציליה",
-      "price_usd": 86,
-      "url": "https://secretflights.co.il/flights-to-sicily/"
-    },
     {
       "raw_text": "פורסם לפני 4 ימים טיסות בקיץ אוגוסט 2026 $117",
       "destination": "בקיץ",
@@ -16,34 +10,34 @@
       "url": "https://secretflights.co.il/summer-vacation-flights/"
     },
     {
-      "raw_text": "פורסם לפני 2 שעות טיסות לאתונה אוגוסט 2026 $118",
+      "raw_text": "פורסם לפני 3 שעות טיסות ברגע האחרון יולי 2026 אוגוסט 2026 $121",
+      "destination": "ברגע האחרון",
+      "price_usd": 121,
+      "url": "https://secretflights.co.il/last-minute-flights/"
+    },
+    {
+      "raw_text": "פורסם לפני 8 שעות טיסות לאתונה אוגוסט 2026 $147",
       "destination": "אתונה",
-      "price_usd": 118,
+      "price_usd": 147,
       "url": "https://secretflights.co.il/flights-to-athens/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות לטביליסי אוקטובר 2026 נובמבר 2026 $153",
-      "destination": "טביליסי",
-      "price_usd": 153,
-      "url": "https://secretflights.co.il/flights-to-tbilisi/"
-    },
-    {
-      "raw_text": "פורסם לפני 3 שעות טיסות לקרקוב מגוון חודשים $156",
+      "raw_text": "פורסם לפני 9 שעות טיסות לקרקוב מגוון חודשים $153",
       "destination": "קרקוב",
-      "price_usd": 156,
+      "price_usd": 153,
       "url": "https://secretflights.co.il/flights-to-krakow/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לכרתים יולי 2026 אוגוסט 2026 $158",
-      "destination": "כרתים",
-      "price_usd": 158,
-      "url": "https://secretflights.co.il/flights-to-crete/"
+      "raw_text": "פורסם לפני יום 1 טיסות לטביליסי אוקטובר 2026 נובמבר 2026 $155",
+      "destination": "טביליסי",
+      "price_usd": 155,
+      "url": "https://secretflights.co.il/flights-to-tbilisi/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לקוס יולי 2026 $195",
-      "destination": "קוס",
-      "price_usd": 195,
-      "url": "https://secretflights.co.il/flights-to-kos/"
+      "raw_text": "פורסם לפני 2 ימים טיסות לכרתים אוגוסט 2026 $166",
+      "destination": "כרתים",
+      "price_usd": 166,
+      "url": "https://secretflights.co.il/flights-to-crete/"
     },
     {
       "raw_text": "פורסם לפני יום 1 טיסות לבארי יולי 2026 $199",
@@ -52,27 +46,33 @@
       "url": "https://secretflights.co.il/flights-to-bari/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לוינה נובמבר 2026 דצמבר 2026 $247",
+      "raw_text": "פורסם לפני 3 ימים טיסות לקוס יולי 2026 $201",
+      "destination": "קוס",
+      "price_usd": 201,
+      "url": "https://secretflights.co.il/flights-to-kos/"
+    },
+    {
+      "raw_text": "פורסם לפני 3 ימים טיסות לוינה נובמבר 2026 דצמבר 2026 $245",
       "destination": "וינה",
-      "price_usd": 247,
+      "price_usd": 245,
       "url": "https://secretflights.co.il/flights-to-vienna/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לסיאול מגוון חודשים $685",
+      "raw_text": "פורסם לפני 2 ימים טיסות לסיאול מגוון חודשים $682",
       "destination": "סיאול",
-      "price_usd": 685,
+      "price_usd": 682,
       "url": "https://secretflights.co.il/flights-to-seoul/"
     },
     {
-      "raw_text": "פורסם לפני 22 שעות טיסות לפוקט ספטמבר 2026 $746",
+      "raw_text": "פורסם לפני יום 1 טיסות לפוקט ספטמבר 2026 $751",
       "destination": "פוקט",
-      "price_usd": 746,
+      "price_usd": 751,
       "url": "https://secretflights.co.il/flights-to-phuket/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות ליפן ינואר 2027 פברואר 2027 $1024",
+      "raw_text": "פורסם לפני 2 ימים טיסות ליפן ינואר 2027 פברואר 2027 $1033",
       "destination": "יפן",
-      "price_usd": 1024,
+      "price_usd": 1033,
       "url": "https://secretflights.co.il/flights-to-japan/"
     }
   ]
