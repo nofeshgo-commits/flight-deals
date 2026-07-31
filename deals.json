@@ -1,36 +1,30 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-07-31T10:03:51.259767+00:00",
+  "updated_at": "2026-07-31T17:12:04.336507+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות ללרנקה מגוון חודשים $51",
-      "destination": "לרנקה",
-      "price_usd": 51,
-      "url": "https://secretflights.co.il/flights-to-larnaca/"
-    },
-    {
-      "raw_text": "פורסם לפני 3 ימים טיסות לבודפשט מגוון חודשים $130",
-      "destination": "בודפשט",
-      "price_usd": 130,
-      "url": "https://secretflights.co.il/flights-to-budapest/"
-    },
-    {
-      "raw_text": "פורסם לפני 19 שעות טיסות לקפריסין אוגוסט 2026 $141",
-      "destination": "קפריסין",
-      "price_usd": 141,
-      "url": "https://secretflights.co.il/flights-to-cyprus/"
-    },
-    {
-      "raw_text": "פורסם לפני 3 ימים טיסות ליוון יולי 2026 $156",
+      "raw_text": "פורסם לפני 3 ימים טיסות ליוון יולי 2026 $144",
       "destination": "יוון",
-      "price_usd": 156,
+      "price_usd": 144,
       "url": "https://secretflights.co.il/flights-to-greece/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לבטומי מגוון חודשים $188",
+      "raw_text": "פורסם לפני יום 1 טיסות לקפריסין אוגוסט 2026 $152",
+      "destination": "קפריסין",
+      "price_usd": 152,
+      "url": "https://secretflights.co.il/flights-to-cyprus/"
+    },
+    {
+      "raw_text": "פורסם לפני 5 שעות טיסות לרודוס אוגוסט 2026 $162",
+      "destination": "רודוס",
+      "price_usd": 162,
+      "url": "https://secretflights.co.il/flights-to-rhodes/"
+    },
+    {
+      "raw_text": "פורסם לפני 2 ימים טיסות לבטומי מגוון חודשים $191",
       "destination": "בטומי",
-      "price_usd": 188,
+      "price_usd": 191,
       "url": "https://secretflights.co.il/flights-to-batumi/"
     },
     {
@@ -40,7 +34,7 @@
       "url": "https://secretflights.co.il/flights-to-montenegro/"
     },
     {
-      "raw_text": "פורסם לפני 3 שעות טיסות לאוסטריה אוקטובר 2026 $226",
+      "raw_text": "פורסם לפני 11 שעות טיסות לאוסטריה אוקטובר 2026 $226",
       "destination": "אוסטריה",
       "price_usd": 226,
       "url": "https://secretflights.co.il/flights-to-austria/"
@@ -52,28 +46,34 @@
       "url": "https://secretflights.co.il/flights-to-lisbon/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לזנזיבר אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $570",
+      "raw_text": "פורסם לפני 3 ימים טיסות לזנזיבר אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $571",
       "destination": "זנזיבר",
-      "price_usd": 570,
+      "price_usd": 571,
       "url": "https://secretflights.co.il/flights-to-zanzibar/"
     },
     {
-      "raw_text": "פורסם לפני 19 שעות טיסות לפוקט פברואר 2027 $690",
-      "destination": "פוקט",
-      "price_usd": 690,
-      "url": "https://secretflights.co.il/flights-to-phuket/"
+      "raw_text": "פורסם לפני 3 שעות טיסות לסרי לנקה ספטמבר 2026 $682",
+      "destination": "סרי לנקה",
+      "price_usd": 682,
+      "url": "https://secretflights.co.il/flights-to-sri-lanka/"
     },
     {
-      "raw_text": "פורסם לפני 18 שעות טיסות ליפן יוני 2027 $870",
-      "destination": "יפן",
-      "price_usd": 870,
-      "url": "https://secretflights.co.il/flights-to-japan/"
+      "raw_text": "פורסם לפני יום 1 טיסות לפוקט פברואר 2027 $691",
+      "destination": "פוקט",
+      "price_usd": 691,
+      "url": "https://secretflights.co.il/flights-to-phuket/"
     },
     {
       "raw_text": "פורסם לפני 2 ימים טיסות פרימיום אקונומי מגוון חודשים $1050",
       "destination": "פרימיום אקונומי",
       "price_usd": 1050,
       "url": "https://secretflights.co.il/premium-economy-flights/"
+    },
+    {
+      "raw_text": "פורסם לפני יום 1 טיסות ליפן יוני 2027 $1051",
+      "destination": "יפן",
+      "price_usd": 1051,
+      "url": "https://secretflights.co.il/flights-to-japan/"
     }
   ]
 }
