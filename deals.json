@@ -1,19 +1,19 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-08-08T14:05:18.955065+00:00",
+  "updated_at": "2026-08-08T16:00:08.725000+00:00",
   "deals_count": 12,
   "deals": [
+    {
+      "raw_text": "פורסם לפני יום 1 טיסות בחגים מגוון חודשים $97",
+      "destination": "בחגים",
+      "price_usd": 97,
+      "url": "https://secretflights.co.il/tishrei-holidays-flights/"
+    },
     {
       "raw_text": "פורסם לפני יום 1 טיסות טארום מגוון חודשים $98",
       "destination": "טארום",
       "price_usd": 98,
       "url": "https://secretflights.co.il/tarom-flights/"
-    },
-    {
-      "raw_text": "פורסם לפני יום 1 טיסות בחגים מגוון חודשים $98",
-      "destination": "בחגים",
-      "price_usd": 98,
-      "url": "https://secretflights.co.il/tishrei-holidays-flights/"
     },
     {
       "raw_text": "פורסם לפני 3 ימים טיסות לחופשת סקי ינואר 2027 פברואר 2027 מרץ 2027 $116",
@@ -28,7 +28,7 @@
       "url": "https://secretflights.co.il/last-minute-flights/"
     },
     {
-      "raw_text": "פורסם לפני 6 שעות טיסות לבודפשט מגוון חודשים $126",
+      "raw_text": "פורסם לפני 7 שעות טיסות לבודפשט מגוון חודשים $126",
       "destination": "בודפשט",
       "price_usd": 126,
       "url": "https://secretflights.co.il/flights-to-budapest/"
@@ -52,15 +52,15 @@
       "url": "https://secretflights.co.il/flights-to-crete/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לסיציליה אוגוסט 2026 $241",
+      "raw_text": "פורסם לפני 2 ימים טיסות לסיציליה אוגוסט 2026 $243",
       "destination": "סיציליה",
-      "price_usd": 241,
+      "price_usd": 243,
       "url": "https://secretflights.co.il/flights-to-sicily/"
     },
     {
-      "raw_text": "פורסם לפני 4 ימים טיסות לבנגקוק ינואר 2027 פברואר 2027 מרץ 2027 $685",
+      "raw_text": "פורסם לפני 25 דקות טיסות לבנגקוק ינואר 2027 פברואר 2027 מרץ 2027 $686",
       "destination": "בנגקוק",
-      "price_usd": 685,
+      "price_usd": 686,
       "url": "https://secretflights.co.il/flights-to-bangkok/"
     },
     {
@@ -70,9 +70,9 @@
       "url": "https://secretflights.co.il/flights-to-south-america/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות לוייטנאם מאי 2027 $863",
+      "raw_text": "פורסם לפני יום 1 טיסות לוייטנאם מאי 2027 $892",
       "destination": "וייטנאם",
-      "price_usd": 863,
+      "price_usd": 892,
       "url": "https://secretflights.co.il/flights-to-vietnam/"
     }
   ]
