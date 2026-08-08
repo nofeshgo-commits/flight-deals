@@ -1,31 +1,25 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-08-08T03:59:25.655095+00:00",
+  "updated_at": "2026-08-08T10:16:03.607738+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 20 שעות טיסות בחגים מגוון חודשים $85",
+      "raw_text": "פורסם לפני יום 1 טיסות בחגים מגוון חודשים $96",
       "destination": "בחגים",
-      "price_usd": 85,
+      "price_usd": 96,
       "url": "https://secretflights.co.il/tishrei-holidays-flights/"
     },
     {
-      "raw_text": "פורסם לפני 13 שעות טיסות טארום מגוון חודשים $98",
+      "raw_text": "פורסם לפני 20 שעות טיסות טארום מגוון חודשים $98",
       "destination": "טארום",
       "price_usd": 98,
       "url": "https://secretflights.co.il/tarom-flights/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לחופשת סקי ינואר 2027 פברואר 2027 מרץ 2027 $116",
+      "raw_text": "פורסם לפני 3 ימים טיסות לחופשת סקי ינואר 2027 פברואר 2027 מרץ 2027 $117",
       "destination": "חופשת סקי",
-      "price_usd": 116,
+      "price_usd": 117,
       "url": "https://secretflights.co.il/flights-to-ski-vacation/"
-    },
-    {
-      "raw_text": "פורסם לפני 3 ימים טיסות לרומא ספטמבר 2026 אוקטובר 2026 נובמבר 2026 $118",
-      "destination": "רומא",
-      "price_usd": 118,
-      "url": "https://secretflights.co.il/flights-to-rome/"
     },
     {
       "raw_text": "פורסם לפני 2 ימים טיסות ברגע האחרון אוגוסט 2026 $121",
@@ -34,9 +28,15 @@
       "url": "https://secretflights.co.il/last-minute-flights/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לבוקרשט ינואר 2027 פברואר 2027 מרץ 2027 $142",
+      "raw_text": "פורסם לפני 2 שעות טיסות לבודפשט מגוון חודשים $126",
+      "destination": "בודפשט",
+      "price_usd": 126,
+      "url": "https://secretflights.co.il/flights-to-budapest/"
+    },
+    {
+      "raw_text": "פורסם לפני 2 ימים טיסות לבוקרשט ינואר 2027 פברואר 2027 מרץ 2027 $141",
       "destination": "בוקרשט",
-      "price_usd": 142,
+      "price_usd": 141,
       "url": "https://secretflights.co.il/flights-to-bucharest/"
     },
     {
@@ -46,34 +46,34 @@
       "url": "https://secretflights.co.il/flights-to-tbilisi/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לכרתים אוגוסט 2026 $205",
+      "raw_text": "פורסם לפני 3 ימים טיסות לכרתים אוגוסט 2026 $204",
       "destination": "כרתים",
-      "price_usd": 205,
+      "price_usd": 204,
       "url": "https://secretflights.co.il/flights-to-crete/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות לסיציליה אוגוסט 2026 $251",
+      "raw_text": "פורסם לפני 2 ימים טיסות לסיציליה אוגוסט 2026 $243",
       "destination": "סיציליה",
-      "price_usd": 251,
+      "price_usd": 243,
       "url": "https://secretflights.co.il/flights-to-sicily/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לבנגקוק ינואר 2027 פברואר 2027 מרץ 2027 $682",
+      "raw_text": "פורסם לפני 4 ימים טיסות לבנגקוק ינואר 2027 פברואר 2027 מרץ 2027 $685",
       "destination": "בנגקוק",
-      "price_usd": 682,
+      "price_usd": 685,
       "url": "https://secretflights.co.il/flights-to-bangkok/"
-    },
-    {
-      "raw_text": "פורסם לפני 15 שעות טיסות לוייטנאם מאי 2027 $846",
-      "destination": "וייטנאם",
-      "price_usd": 846,
-      "url": "https://secretflights.co.il/flights-to-vietnam/"
     },
     {
       "raw_text": "פורסם לפני 3 ימים טיסות לדרום אמריקה ינואר 2027 פברואר 2027 $858",
       "destination": "דרום אמריקה",
       "price_usd": 858,
       "url": "https://secretflights.co.il/flights-to-south-america/"
+    },
+    {
+      "raw_text": "פורסם לפני 22 שעות טיסות לוייטנאם מאי 2027 $863",
+      "destination": "וייטנאם",
+      "price_usd": 863,
+      "url": "https://secretflights.co.il/flights-to-vietnam/"
     }
   ]
 }
