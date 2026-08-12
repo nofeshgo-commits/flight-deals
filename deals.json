@@ -1,25 +1,13 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-08-12T05:44:28.228287+00:00",
+  "updated_at": "2026-08-12T09:46:15.530169+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לאתונה מגוון חודשים $108",
-      "destination": "אתונה",
-      "price_usd": 108,
-      "url": "https://secretflights.co.il/flights-to-athens/"
-    },
-    {
-      "raw_text": "פורסם לפני 19 שעות טיסות לקרקוב מגוון חודשים $117",
+      "raw_text": "פורסם לפני 23 שעות טיסות לקרקוב מגוון חודשים $117",
       "destination": "קרקוב",
       "price_usd": 117,
       "url": "https://secretflights.co.il/flights-to-krakow/"
-    },
-    {
-      "raw_text": "פורסם לפני 3 ימים טיסות ללונדון ינואר 2027 פברואר 2027 מרץ 2027 $125",
-      "destination": "לונדון",
-      "price_usd": 125,
-      "url": "https://secretflights.co.il/flights-to-london/"
     },
     {
       "raw_text": "פורסם לפני 2 ימים טיסות לאיטליה ספטמבר 2026 $132",
@@ -28,10 +16,22 @@
       "url": "https://secretflights.co.il/flights-to-italy/"
     },
     {
+      "raw_text": "פורסם לפני 4 ימים טיסות ללונדון ינואר 2027 פברואר 2027 מרץ 2027 $134",
+      "destination": "לונדון",
+      "price_usd": 134,
+      "url": "https://secretflights.co.il/flights-to-london/"
+    },
+    {
       "raw_text": "פורסם לפני 3 ימים טיסות לפראג נובמבר 2026 דצמבר 2026 $144",
       "destination": "פראג",
       "price_usd": 144,
       "url": "https://secretflights.co.il/flights-to-prague/"
+    },
+    {
+      "raw_text": "פורסם לפני 3 ימים טיסות לאתונה ספטמבר 2026 $146",
+      "destination": "אתונה",
+      "price_usd": 146,
+      "url": "https://secretflights.co.il/flights-to-athens/"
     },
     {
       "raw_text": "פורסם לפני 2 ימים טיסות למדריד נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $164",
@@ -46,33 +46,33 @@
       "url": "https://secretflights.co.il/flights-to-verona/"
     },
     {
-      "raw_text": "פורסם לפני 15 שעות טיסות למומבאי נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $441",
+      "raw_text": "פורסם לפני 19 שעות טיסות למומבאי נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $441",
       "destination": "מומבאי",
       "price_usd": 441,
       "url": "https://secretflights.co.il/flights-to-mumbai/"
     },
     {
-      "raw_text": "פורסם לפני 4 ימים טיסות לבנגקוק ינואר 2027 פברואר 2027 מרץ 2027 $680",
-      "destination": "בנגקוק",
-      "price_usd": 680,
-      "url": "https://secretflights.co.il/flights-to-bangkok/"
-    },
-    {
-      "raw_text": "פורסם לפני יום 1 טיסות לפוקט אוקטובר 2026 נובמבר 2026 $689",
+      "raw_text": "פורסם לפני 2 ימים טיסות לפוקט אוקטובר 2026 נובמבר 2026 $691",
       "destination": "פוקט",
-      "price_usd": 689,
+      "price_usd": 691,
       "url": "https://secretflights.co.il/flights-to-phuket/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לניו יורק אפריל 2027 $740",
+      "raw_text": "פורסם לפני 3 ימים טיסות לניו יורק אפריל 2027 $740",
       "destination": "ניו יורק",
       "price_usd": 740,
       "url": "https://secretflights.co.il/flights-to-new-york/"
     },
     {
-      "raw_text": "פורסם לפני 21 שעות טיסות אל על ינואר 2027 פברואר 2027 מרץ 2027 $861",
+      "raw_text": "פורסם לפני 45 דקות טיסות ללוס אנג'לס ינואר 2027 פברואר 2027 $848",
+      "destination": "לוס אנג'לס",
+      "price_usd": 848,
+      "url": "https://secretflights.co.il/flights-to-los-angeles/"
+    },
+    {
+      "raw_text": "פורסם לפני יום 1 טיסות אל על ינואר 2027 פברואר 2027 מרץ 2027 $863",
       "destination": "אל על",
-      "price_usd": 861,
+      "price_usd": 863,
       "url": "https://secretflights.co.il/el-al-flights/"
     }
   ]
