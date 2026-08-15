@@ -1,12 +1,12 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-08-15T06:23:02.544367+00:00",
+  "updated_at": "2026-08-15T09:18:13.350858+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 19 שעות טיסות בקיץ יולי 2027 $106",
+      "raw_text": "פורסם לפני 22 שעות טיסות בקיץ יולי 2027 $105",
       "destination": "בקיץ",
-      "price_usd": 106,
+      "price_usd": 105,
       "url": "https://secretflights.co.il/summer-vacation-flights/"
     },
     {
@@ -22,9 +22,9 @@
       "url": "https://secretflights.co.il/flights-to-ski-vacation/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לסלוניקי מגוון חודשים $128",
+      "raw_text": "פורסם לפני 2 ימים טיסות לסלוניקי מגוון חודשים $135",
       "destination": "סלוניקי",
-      "price_usd": 128,
+      "price_usd": 135,
       "url": "https://secretflights.co.il/flights-to-thessaloniki/"
     },
     {
@@ -34,21 +34,21 @@
       "url": "https://secretflights.co.il/flights-to-athens/"
     },
     {
-      "raw_text": "פורסם לפני 15 שעות טיסות לרומא אפריל 2027 $166",
+      "raw_text": "פורסם לפני 18 שעות טיסות לרומא אפריל 2027 $166",
       "destination": "רומא",
       "price_usd": 166,
       "url": "https://secretflights.co.il/flights-to-rome/"
     },
     {
-      "raw_text": "פורסם לפני 23 שעות טיסות למיקונוס ספטמבר 2026 $173",
+      "raw_text": "פורסם לפני יום 1 טיסות למיקונוס ספטמבר 2026 $175",
       "destination": "מיקונוס",
-      "price_usd": 173,
+      "price_usd": 175,
       "url": "https://secretflights.co.il/flights-to-mykonos/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות לפריז מגוון חודשים $188",
+      "raw_text": "פורסם לפני יום 1 טיסות לפריז מגוון חודשים $190",
       "destination": "פריז",
-      "price_usd": 188,
+      "price_usd": 190,
       "url": "https://secretflights.co.il/flights-to-paris/"
     },
     {
