@@ -1,6 +1,6 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-08-16T03:40:46.681512+00:00",
+  "updated_at": "2026-08-16T06:25:33.286210+00:00",
   "deals_count": 12,
   "deals": [
     {
@@ -16,27 +16,27 @@
       "url": "https://secretflights.co.il/flights-to-ski-vacation/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לסיציליה מאי 2027 יוני 2027 יולי 2027 $120",
+      "raw_text": "פורסם לפני 4 ימים טיסות לסיציליה מאי 2027 יוני 2027 יולי 2027 $121",
       "destination": "סיציליה",
-      "price_usd": 120,
+      "price_usd": 121,
       "url": "https://secretflights.co.il/flights-to-sicily/"
     },
     {
-      "raw_text": "פורסם לפני 19 שעות טיסות ללונדון ינואר 2027 פברואר 2027 מרץ 2027 $136",
+      "raw_text": "פורסם לפני 21 שעות טיסות ללונדון ינואר 2027 פברואר 2027 מרץ 2027 $135",
       "destination": "לונדון",
-      "price_usd": 136,
+      "price_usd": 135,
       "url": "https://secretflights.co.il/flights-to-london/"
     },
     {
-      "raw_text": "פורסם לפני 17 שעות טיסות ליוון ספטמבר 2026 $140",
+      "raw_text": "פורסם לפני 19 שעות טיסות ליוון ספטמבר 2026 $140",
       "destination": "יוון",
       "price_usd": 140,
       "url": "https://secretflights.co.il/flights-to-greece/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לסלוניקי מגוון חודשים $153",
+      "raw_text": "פורסם לפני 3 ימים טיסות לסלוניקי מגוון חודשים $156",
       "destination": "סלוניקי",
-      "price_usd": 153,
+      "price_usd": 156,
       "url": "https://secretflights.co.il/flights-to-thessaloniki/"
     },
     {
@@ -58,7 +58,7 @@
       "url": "https://secretflights.co.il/flights-to-paris/"
     },
     {
-      "raw_text": "פורסם לפני 13 שעות טיסות לאמסטרדם אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $216",
+      "raw_text": "פורסם לפני 15 שעות טיסות לאמסטרדם אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $216",
       "destination": "אמסטרדם",
       "price_usd": 216,
       "url": "https://secretflights.co.il/flights-to-amsterdam/"
@@ -70,7 +70,7 @@
       "url": "https://secretflights.co.il/flights-to-zanzibar/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לצ'אנג מאי מגוון חודשים $771",
+      "raw_text": "פורסם לפני 3 ימים טיסות לצ'אנג מאי מגוון חודשים $771",
       "destination": "צ'אנג",
       "price_usd": 771,
       "url": "https://secretflights.co.il/flights-to-chiang-mai/"
