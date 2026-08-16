@@ -1,12 +1,12 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-08-16T09:19:02.592631+00:00",
+  "updated_at": "2026-08-16T12:21:47.825182+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות בקיץ יולי 2027 $114",
+      "raw_text": "פורסם לפני 2 ימים טיסות בקיץ יולי 2027 $108",
       "destination": "בקיץ",
-      "price_usd": 114,
+      "price_usd": 108,
       "url": "https://secretflights.co.il/summer-vacation-flights/"
     },
     {
@@ -22,19 +22,13 @@
       "url": "https://secretflights.co.il/flights-to-london/"
     },
     {
-      "raw_text": "פורסם לפני 22 שעות טיסות ליוון ספטמבר 2026 $145",
+      "raw_text": "פורסם לפני יום 1 טיסות ליוון ספטמבר 2026 $147",
       "destination": "יוון",
-      "price_usd": 145,
+      "price_usd": 147,
       "url": "https://secretflights.co.il/flights-to-greece/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לסלוניקי מגוון חודשים $153",
-      "destination": "סלוניקי",
-      "price_usd": 153,
-      "url": "https://secretflights.co.il/flights-to-thessaloniki/"
-    },
-    {
-      "raw_text": "פורסם לפני 2 שעות טיסות לטביליסי אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $166",
+      "raw_text": "פורסם לפני 5 שעות טיסות לטביליסי אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $166",
       "destination": "טביליסי",
       "price_usd": 166,
       "url": "https://secretflights.co.il/flights-to-tbilisi/"
@@ -52,13 +46,13 @@
       "url": "https://secretflights.co.il/flights-to-rome/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לפריז מגוון חודשים $190",
+      "raw_text": "פורסם לפני 2 ימים טיסות לפריז מגוון חודשים $188",
       "destination": "פריז",
-      "price_usd": 190,
+      "price_usd": 188,
       "url": "https://secretflights.co.il/flights-to-paris/"
     },
     {
-      "raw_text": "פורסם לפני 18 שעות טיסות לאמסטרדם אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $216",
+      "raw_text": "פורסם לפני 21 שעות טיסות לאמסטרדם אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $216",
       "destination": "אמסטרדם",
       "price_usd": 216,
       "url": "https://secretflights.co.il/flights-to-amsterdam/"
@@ -70,10 +64,16 @@
       "url": "https://secretflights.co.il/flights-to-zanzibar/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לצ'אנג מאי מגוון חודשים $771",
+      "raw_text": "פורסם לפני 3 ימים טיסות לצ'אנג מאי מגוון חודשים $772",
       "destination": "צ'אנג",
-      "price_usd": 771,
+      "price_usd": 772,
       "url": "https://secretflights.co.il/flights-to-chiang-mai/"
+    },
+    {
+      "raw_text": "פורסם לפני 2 שעות טיסות למיאמי נובמבר 2026 $849",
+      "destination": "מיאמי",
+      "price_usd": 849,
+      "url": "https://secretflights.co.il/flights-to-miami/"
     }
   ]
 }
