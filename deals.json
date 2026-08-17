@@ -1,12 +1,12 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-08-17T00:46:24.886327+00:00",
+  "updated_at": "2026-08-17T03:42:20.310092+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 10 שעות טיסות לאתונה אוקטובר 2026 נובמבר 2026 דצמבר 2026 $109",
+      "raw_text": "פורסם לפני 12 שעות טיסות לאתונה אוקטובר 2026 נובמבר 2026 דצמבר 2026 $107",
       "destination": "אתונה",
-      "price_usd": 109,
+      "price_usd": 107,
       "url": "https://secretflights.co.il/flights-to-athens/"
     },
     {
@@ -16,7 +16,7 @@
       "url": "https://secretflights.co.il/summer-vacation-flights/"
     },
     {
-      "raw_text": "פורסם לפני 7 שעות טיסות לבודפשט נובמבר 2026 דצמבר 2026 $127",
+      "raw_text": "פורסם לפני 9 שעות טיסות לבודפשט נובמבר 2026 דצמבר 2026 $127",
       "destination": "בודפשט",
       "price_usd": 127,
       "url": "https://secretflights.co.il/flights-to-budapest/"
@@ -34,15 +34,15 @@
       "url": "https://secretflights.co.il/flights-to-greece/"
     },
     {
-      "raw_text": "פורסם לפני 17 שעות טיסות לטביליסי אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $164",
+      "raw_text": "פורסם לפני 19 שעות טיסות לטביליסי אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $164",
       "destination": "טביליסי",
       "price_usd": 164,
       "url": "https://secretflights.co.il/flights-to-tbilisi/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות למיקונוס ספטמבר 2026 $172",
+      "raw_text": "פורסם לפני 3 ימים טיסות למיקונוס ספטמבר 2026 $167",
       "destination": "מיקונוס",
-      "price_usd": 172,
+      "price_usd": 167,
       "url": "https://secretflights.co.il/flights-to-mykonos/"
     },
     {
@@ -70,9 +70,9 @@
       "url": "https://secretflights.co.il/flights-to-chiang-mai/"
     },
     {
-      "raw_text": "פורסם לפני 14 שעות טיסות למיאמי נובמבר 2026 $855",
+      "raw_text": "פורסם לפני 17 שעות טיסות למיאמי נובמבר 2026 $851",
       "destination": "מיאמי",
-      "price_usd": 855,
+      "price_usd": 851,
       "url": "https://secretflights.co.il/flights-to-miami/"
     }
   ]
