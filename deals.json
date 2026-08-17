@@ -1,6 +1,6 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-08-17T18:26:27.155574+00:00",
+  "updated_at": "2026-08-17T21:18:22.023741+00:00",
   "deals_count": 12,
   "deals": [
     {
@@ -34,13 +34,13 @@
       "url": "https://secretflights.co.il/flights-to-greece/"
     },
     {
-      "raw_text": "פורסם לפני 8 שעות טיסות לכרתים אוגוסט 2026 ספטמבר 2026 $155",
+      "raw_text": "פורסם לפני 10 שעות טיסות לכרתים אוגוסט 2026 ספטמבר 2026 $155",
       "destination": "כרתים",
       "price_usd": 155,
       "url": "https://secretflights.co.il/flights-to-crete/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות לטביליסי אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $164",
+      "raw_text": "פורסם לפני 2 ימים טיסות לטביליסי אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $164",
       "destination": "טביליסי",
       "price_usd": 164,
       "url": "https://secretflights.co.il/flights-to-tbilisi/"
@@ -52,27 +52,27 @@
       "url": "https://secretflights.co.il/flights-to-rome/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לאמסטרדם אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $216",
+      "raw_text": "פורסם לפני 2 ימים טיסות לאמסטרדם אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $213",
       "destination": "אמסטרדם",
-      "price_usd": 216,
+      "price_usd": 213,
       "url": "https://secretflights.co.il/flights-to-amsterdam/"
     },
     {
-      "raw_text": "פורסם לפני 10 שעות טיסות לדלהי מגוון חודשים $466",
+      "raw_text": "פורסם לפני 12 שעות טיסות לדלהי מגוון חודשים $466",
       "destination": "דלהי",
       "price_usd": 466,
       "url": "https://secretflights.co.il/flights-to-delhi/"
     },
     {
-      "raw_text": "פורסם לפני 3 שעות טיסות לפיליפינים מגוון חודשים $867",
+      "raw_text": "פורסם לפני 5 שעות טיסות לפיליפינים מגוון חודשים $867",
       "destination": "פיליפינים",
       "price_usd": 867,
       "url": "https://secretflights.co.il/flights-to-philippines/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות למיאמי נובמבר 2026 $895",
+      "raw_text": "פורסם לפני יום 1 טיסות למיאמי נובמבר 2026 $897",
       "destination": "מיאמי",
-      "price_usd": 895,
+      "price_usd": 897,
       "url": "https://secretflights.co.il/flights-to-miami/"
     }
   ]
