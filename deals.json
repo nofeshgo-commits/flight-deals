@@ -1,10 +1,10 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-08-21T18:24:29.528801+00:00",
+  "updated_at": "2026-08-21T21:15:28.035090+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 13 שעות טיסות ללרנקה אוקטובר 2026 נובמבר 2026 $50",
+      "raw_text": "פורסם לפני 16 שעות טיסות ללרנקה אוקטובר 2026 נובמבר 2026 $50",
       "destination": "לרנקה",
       "price_usd": 50,
       "url": "https://secretflights.co.il/flights-to-larnaca/"
@@ -16,13 +16,13 @@
       "url": "https://secretflights.co.il/flights-to-italy/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לרומא מגוון חודשים $120",
+      "raw_text": "פורסם לפני 2 ימים טיסות לרומא מגוון חודשים $118",
       "destination": "רומא",
-      "price_usd": 120,
+      "price_usd": 118,
       "url": "https://secretflights.co.il/flights-to-rome/"
     },
     {
-      "raw_text": "פורסם לפני 5 שעות טיסות לאתונה ספטמבר 2026 אוקטובר 2026 $130",
+      "raw_text": "פורסם לפני 8 שעות טיסות לאתונה ספטמבר 2026 אוקטובר 2026 $130",
       "destination": "אתונה",
       "price_usd": 130,
       "url": "https://secretflights.co.il/flights-to-athens/"
@@ -34,9 +34,9 @@
       "url": "https://secretflights.co.il/flights-to-ski-vacation/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לבוקרשט נובמבר 2026 דצמבר 2026 $145",
+      "raw_text": "פורסם לפני 2 ימים טיסות לבוקרשט נובמבר 2026 דצמבר 2026 $139",
       "destination": "בוקרשט",
-      "price_usd": 145,
+      "price_usd": 139,
       "url": "https://secretflights.co.il/flights-to-bucharest/"
     },
     {
@@ -46,19 +46,19 @@
       "url": "https://secretflights.co.il/flights-to-paris/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות לבאקו נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $235",
+      "raw_text": "פורסם לפני 2 ימים טיסות לבאקו נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $235",
       "destination": "באקו",
       "price_usd": 235,
       "url": "https://secretflights.co.il/flights-to-baku"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות לוינה נובמבר 2026 דצמבר 2026 $260",
+      "raw_text": "פורסם לפני יום 1 טיסות לוינה נובמבר 2026 דצמבר 2026 $258",
       "destination": "וינה",
-      "price_usd": 260,
+      "price_usd": 258,
       "url": "https://secretflights.co.il/flights-to-vienna/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לליסבון דצמבר 2026 ינואר 2027 פברואר 2027 $347",
+      "raw_text": "פורסם לפני 3 ימים טיסות לליסבון דצמבר 2026 ינואר 2027 פברואר 2027 $347",
       "destination": "ליסבון",
       "price_usd": 347,
       "url": "https://secretflights.co.il/flights-to-lisbon/"
