@@ -1,12 +1,12 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-08-22T12:22:01.125709+00:00",
+  "updated_at": "2026-08-22T15:12:28.229568+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני יום 1 טיסות ללרנקה אוקטובר 2026 נובמבר 2026 $47",
+      "raw_text": "פורסם לפני יום 1 טיסות ללרנקה אוקטובר 2026 נובמבר 2026 $50",
       "destination": "לרנקה",
-      "price_usd": 47,
+      "price_usd": 50,
       "url": "https://secretflights.co.il/flights-to-larnaca/"
     },
     {
@@ -16,7 +16,13 @@
       "url": "https://secretflights.co.il/flights-to-italy/"
     },
     {
-      "raw_text": "פורסם לפני 4 שעות טיסות לפאפוס ספטמבר 2026 $110",
+      "raw_text": "פורסם לפני 22 דקות טיסות ברגע האחרון אוגוסט 2026 ספטמבר 2026 $90",
+      "destination": "ברגע האחרון",
+      "price_usd": 90,
+      "url": "https://secretflights.co.il/last-minute-flights/"
+    },
+    {
+      "raw_text": "פורסם לפני 6 שעות טיסות לפאפוס ספטמבר 2026 $110",
       "destination": "פאפוס",
       "price_usd": 110,
       "url": "https://secretflights.co.il/flights-to-paphos/"
@@ -28,7 +34,7 @@
       "url": "https://secretflights.co.il/flights-to-rome/"
     },
     {
-      "raw_text": "פורסם לפני 23 שעות טיסות לאתונה ספטמבר 2026 אוקטובר 2026 $130",
+      "raw_text": "פורסם לפני יום 1 טיסות לאתונה ספטמבר 2026 אוקטובר 2026 $130",
       "destination": "אתונה",
       "price_usd": 130,
       "url": "https://secretflights.co.il/flights-to-athens/"
@@ -46,25 +52,19 @@
       "url": "https://secretflights.co.il/flights-to-paris/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לבאקו נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $232",
+      "raw_text": "פורסם לפני 2 ימים טיסות לבאקו נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $235",
       "destination": "באקו",
-      "price_usd": 232,
+      "price_usd": 235,
       "url": "https://secretflights.co.il/flights-to-baku"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לוינה נובמבר 2026 דצמבר 2026 $265",
+      "raw_text": "פורסם לפני 2 ימים טיסות לוינה נובמבר 2026 דצמבר 2026 $274",
       "destination": "וינה",
-      "price_usd": 265,
+      "price_usd": 274,
       "url": "https://secretflights.co.il/flights-to-vienna/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לליסבון דצמבר 2026 ינואר 2027 פברואר 2027 $347",
-      "destination": "ליסבון",
-      "price_usd": 347,
-      "url": "https://secretflights.co.il/flights-to-lisbon/"
-    },
-    {
-      "raw_text": "פורסם לפני 3 שעות טיסות לסיאול ספטמבר 2026 אפריל 2027 יולי 2027 $690",
+      "raw_text": "פורסם לפני 5 שעות טיסות לסיאול ספטמבר 2026 אפריל 2027 יולי 2027 $690",
       "destination": "סיאול",
       "price_usd": 690,
       "url": "https://secretflights.co.il/flights-to-seoul/"
