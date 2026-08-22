@@ -1,22 +1,22 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-08-22T09:18:48.768459+00:00",
+  "updated_at": "2026-08-22T12:22:01.125709+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני יום 1 טיסות ללרנקה אוקטובר 2026 נובמבר 2026 $42",
+      "raw_text": "פורסם לפני יום 1 טיסות ללרנקה אוקטובר 2026 נובמבר 2026 $47",
       "destination": "לרנקה",
-      "price_usd": 42,
+      "price_usd": 47,
       "url": "https://secretflights.co.il/flights-to-larnaca/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לאיטליה מגוון חודשים $82",
+      "raw_text": "פורסם לפני 2 ימים טיסות לאיטליה מגוון חודשים $86",
       "destination": "איטליה",
-      "price_usd": 82,
+      "price_usd": 86,
       "url": "https://secretflights.co.il/flights-to-italy/"
     },
     {
-      "raw_text": "פורסם לפני 48 דקות טיסות לפאפוס ספטמבר 2026 $110",
+      "raw_text": "פורסם לפני 4 שעות טיסות לפאפוס ספטמבר 2026 $110",
       "destination": "פאפוס",
       "price_usd": 110,
       "url": "https://secretflights.co.il/flights-to-paphos/"
@@ -28,7 +28,7 @@
       "url": "https://secretflights.co.il/flights-to-rome/"
     },
     {
-      "raw_text": "פורסם לפני 20 שעות טיסות לאתונה ספטמבר 2026 אוקטובר 2026 $130",
+      "raw_text": "פורסם לפני 23 שעות טיסות לאתונה ספטמבר 2026 אוקטובר 2026 $130",
       "destination": "אתונה",
       "price_usd": 130,
       "url": "https://secretflights.co.il/flights-to-athens/"
@@ -40,9 +40,9 @@
       "url": "https://secretflights.co.il/flights-to-bucharest/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לפריז ינואר 2027 פברואר 2027 מרץ 2027 $157",
+      "raw_text": "פורסם לפני 3 ימים טיסות לפריז ינואר 2027 פברואר 2027 מרץ 2027 $158",
       "destination": "פריז",
-      "price_usd": 157,
+      "price_usd": 158,
       "url": "https://secretflights.co.il/flights-to-paris/"
     },
     {
@@ -64,10 +64,10 @@
       "url": "https://secretflights.co.il/flights-to-lisbon/"
     },
     {
-      "raw_text": "פורסם לפני 4 ימים טיסות לפוקט מגוון חודשים $672",
-      "destination": "פוקט",
-      "price_usd": 672,
-      "url": "https://secretflights.co.il/flights-to-phuket/"
+      "raw_text": "פורסם לפני 3 שעות טיסות לסיאול ספטמבר 2026 אפריל 2027 יולי 2027 $690",
+      "destination": "סיאול",
+      "price_usd": 690,
+      "url": "https://secretflights.co.il/flights-to-seoul/"
     },
     {
       "raw_text": "פורסם לפני 2 ימים טיסות לניו יורק נובמבר 2026 פברואר 2027 $723",
