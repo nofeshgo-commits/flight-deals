@@ -1,7 +1,7 @@
 {
   "source": "Skyscanner (via Flights Scraper Sky API)",
   "from": "TLV",
-  "updated_at": "2026-08-22T06:20:13.603212+00:00",
+  "updated_at": "2026-08-23T06:21:41.704913+00:00",
   "deals_count": 97,
   "deals": [
     {
@@ -16,23 +16,33 @@
     },
     {
       "destination": "Greece",
-      "price_usd": 49.0,
+      "price_usd": 48.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/gr/"
     },
     {
-      "destination": "Bulgaria",
-      "price_usd": 50.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/bg/"
-    },
-    {
       "destination": "Poland",
-      "price_usd": 56.0,
+      "price_usd": 53.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/pl/"
     },
     {
       "destination": "Armenia",
-      "price_usd": 56.0,
+      "price_usd": 54.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/am/"
+    },
+    {
+      "destination": "Bulgaria",
+      "price_usd": 54.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/bg/"
+    },
+    {
+      "destination": "Serbia",
+      "price_usd": 56.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/rs/"
+    },
+    {
+      "destination": "United Kingdom",
+      "price_usd": 56.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/uk/"
     },
     {
       "destination": "Montenegro",
@@ -50,14 +60,14 @@
       "url": "https://www.skyscanner.net/transport/flights/tlv/hu/"
     },
     {
+      "destination": "Moldova",
+      "price_usd": 62.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/md/"
+    },
+    {
       "destination": "United Arab Emirates",
       "price_usd": 62.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/ae/"
-    },
-    {
-      "destination": "United Kingdom",
-      "price_usd": 63.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/uk/"
     },
     {
       "destination": "Czechia",
@@ -80,11 +90,6 @@
       "url": "https://www.skyscanner.net/transport/flights/tlv/al/"
     },
     {
-      "destination": "Serbia",
-      "price_usd": 69.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/rs/"
-    },
-    {
       "destination": "Türkiye (Turkey)",
       "price_usd": 71.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/tr/"
@@ -95,14 +100,14 @@
       "url": "https://www.skyscanner.net/transport/flights/tlv/ge/"
     },
     {
+      "destination": "Austria",
+      "price_usd": 73.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/at/"
+    },
+    {
       "destination": "Germany",
       "price_usd": 73.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/de/"
-    },
-    {
-      "destination": "Lithuania",
-      "price_usd": 74.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/lt/"
     },
     {
       "destination": "Malta",
@@ -110,24 +115,24 @@
       "url": "https://www.skyscanner.net/transport/flights/tlv/mt/"
     },
     {
+      "destination": "Lithuania",
+      "price_usd": 74.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/lt/"
+    },
+    {
       "destination": "Spain",
       "price_usd": 75.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/es/"
     },
     {
-      "destination": "Moldova",
-      "price_usd": 75.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/md/"
-    },
-    {
       "destination": "Belgium",
-      "price_usd": 80.0,
+      "price_usd": 81.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/be/"
     },
     {
-      "destination": "North Macedonia",
-      "price_usd": 81.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/mk/"
+      "destination": "Denmark",
+      "price_usd": 82.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/dk/"
     },
     {
       "destination": "Switzerland",
@@ -140,19 +145,14 @@
       "url": "https://www.skyscanner.net/transport/flights/tlv/nl/"
     },
     {
-      "destination": "Austria",
-      "price_usd": 86.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/at/"
-    },
-    {
       "destination": "Morocco",
       "price_usd": 87.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/ma/"
     },
     {
-      "destination": "Bosnia and Herzegovina",
-      "price_usd": 89.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/ba/"
+      "destination": "North Macedonia",
+      "price_usd": 87.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/mk/"
     },
     {
       "destination": "Portugal",
@@ -175,9 +175,9 @@
       "url": "https://www.skyscanner.net/transport/flights/tlv/hr/"
     },
     {
-      "destination": "Denmark",
+      "destination": "Bosnia and Herzegovina",
       "price_usd": 95.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/dk/"
+      "url": "https://www.skyscanner.net/transport/flights/tlv/ba/"
     },
     {
       "destination": "Azerbaijan",
@@ -185,24 +185,24 @@
       "url": "https://www.skyscanner.net/transport/flights/tlv/az/"
     },
     {
-      "destination": "Luxembourg",
-      "price_usd": 98.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/lu/"
-    },
-    {
       "destination": "Sweden",
       "price_usd": 102.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/se/"
     },
     {
-      "destination": "Ireland",
-      "price_usd": 103.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/ie/"
-    },
-    {
       "destination": "Latvia",
       "price_usd": 104.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/lv/"
+    },
+    {
+      "destination": "Luxembourg",
+      "price_usd": 107.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/lu/"
+    },
+    {
+      "destination": "Ireland",
+      "price_usd": 108.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/ie/"
     },
     {
       "destination": "Egypt",
@@ -211,22 +211,22 @@
     },
     {
       "destination": "Iceland",
-      "price_usd": 119.0,
+      "price_usd": 120.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/is/"
     },
     {
-      "destination": "Slovenia",
-      "price_usd": 120.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/si/"
-    },
-    {
       "destination": "Jordan",
-      "price_usd": 123.0,
+      "price_usd": 124.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/jo/"
     },
     {
+      "destination": "Slovenia",
+      "price_usd": 134.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/si/"
+    },
+    {
       "destination": "Finland",
-      "price_usd": 135.0,
+      "price_usd": 137.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/fi/"
     },
     {
@@ -246,7 +246,7 @@
     },
     {
       "destination": "Uzbekistan",
-      "price_usd": 208.0,
+      "price_usd": 207.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/uz/"
     },
     {
@@ -260,39 +260,34 @@
       "url": "https://www.skyscanner.net/transport/flights/tlv/cv/"
     },
     {
-      "destination": "Kyrgyzstan",
-      "price_usd": 229.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/kg/"
-    },
-    {
       "destination": "India",
-      "price_usd": 238.0,
+      "price_usd": 241.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/in/"
     },
     {
+      "destination": "Kyrgyzstan",
+      "price_usd": 267.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/kg/"
+    },
+    {
+      "destination": "Ethiopia",
+      "price_usd": 289.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/et/"
+    },
+    {
       "destination": "United States",
-      "price_usd": 272.0,
+      "price_usd": 292.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/us/"
     },
     {
       "destination": "Sri Lanka",
-      "price_usd": 280.0,
+      "price_usd": 311.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/lk/"
     },
     {
-      "destination": "Ethiopia",
-      "price_usd": 291.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/et/"
-    },
-    {
       "destination": "Tanzania",
-      "price_usd": 300.0,
+      "price_usd": 315.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/tz/"
-    },
-    {
-      "destination": "Thailand",
-      "price_usd": 325.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/th/"
     },
     {
       "destination": "Nepal",
@@ -308,6 +303,11 @@
       "destination": "Singapore",
       "price_usd": 330.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/sg/"
+    },
+    {
+      "destination": "Thailand",
+      "price_usd": 335.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/th/"
     },
     {
       "destination": "Mexico",
@@ -326,13 +326,8 @@
     },
     {
       "destination": "Philippines",
-      "price_usd": 371.0,
+      "price_usd": 372.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/ph/"
-    },
-    {
-      "destination": "Vietnam",
-      "price_usd": 371.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/vn/"
     },
     {
       "destination": "South Korea",
@@ -345,9 +340,19 @@
       "url": "https://www.skyscanner.net/transport/flights/tlv/id/"
     },
     {
+      "destination": "Vietnam",
+      "price_usd": 381.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/vn/"
+    },
+    {
       "destination": "Taiwan",
-      "price_usd": 383.0,
+      "price_usd": 384.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/tw/"
+    },
+    {
+      "destination": "China",
+      "price_usd": 388.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/cn/"
     },
     {
       "destination": "South Africa",
@@ -356,13 +361,8 @@
     },
     {
       "destination": "Malaysia",
-      "price_usd": 408.0,
+      "price_usd": 409.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/my/"
-    },
-    {
-      "destination": "China",
-      "price_usd": 410.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/cn/"
     },
     {
       "destination": "Japan",
@@ -376,7 +376,7 @@
     },
     {
       "destination": "Cambodia",
-      "price_usd": 455.0,
+      "price_usd": 456.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/kh/"
     },
     {
@@ -400,14 +400,14 @@
       "url": "https://www.skyscanner.net/transport/flights/tlv/pa/"
     },
     {
+      "destination": "Jamaica",
+      "price_usd": 485.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/jm/"
+    },
+    {
       "destination": "Nigeria",
       "price_usd": 492.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/ng/"
-    },
-    {
-      "destination": "Jamaica",
-      "price_usd": 492.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/jm/"
     },
     {
       "destination": "Seychelles",
@@ -430,14 +430,14 @@
       "url": "https://www.skyscanner.net/transport/flights/tlv/mu/"
     },
     {
-      "destination": "Costa Rica",
-      "price_usd": 530.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/cr/"
-    },
-    {
       "destination": "Venezuela",
       "price_usd": 545.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/ve/"
+    },
+    {
+      "destination": "Costa Rica",
+      "price_usd": 548.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/cr/"
     },
     {
       "destination": "El Salvador",
@@ -446,12 +446,17 @@
     },
     {
       "destination": "Australia",
-      "price_usd": 561.0,
+      "price_usd": 562.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/au/"
     },
     {
+      "destination": "Ecuador",
+      "price_usd": 573.0,
+      "url": "https://www.skyscanner.net/transport/flights/tlv/ec/"
+    },
+    {
       "destination": "Guatemala",
-      "price_usd": 586.0,
+      "price_usd": 598.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/gt/"
     },
     {
@@ -465,28 +470,23 @@
       "url": "https://www.skyscanner.net/transport/flights/tlv/ar/"
     },
     {
-      "destination": "Ecuador",
-      "price_usd": 610.0,
-      "url": "https://www.skyscanner.net/transport/flights/tlv/ec/"
-    },
-    {
       "destination": "Chile",
       "price_usd": 619.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/cl/"
     },
     {
       "destination": "Peru",
-      "price_usd": 633.0,
+      "price_usd": 634.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/pe/"
     },
     {
       "destination": "Uruguay",
-      "price_usd": 671.0,
+      "price_usd": 660.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/uy/"
     },
     {
       "destination": "New Zealand",
-      "price_usd": 678.0,
+      "price_usd": 695.0,
       "url": "https://www.skyscanner.net/transport/flights/tlv/nz/"
     }
   ]
