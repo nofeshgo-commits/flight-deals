@@ -1,6 +1,6 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-08-24T09:37:59.526833+00:00",
+  "updated_at": "2026-08-24T12:31:34.493605+00:00",
   "deals_count": 12,
   "deals": [
     {
@@ -22,21 +22,21 @@
       "url": "https://secretflights.co.il/last-minute-flights/"
     },
     {
-      "raw_text": "פורסם לפני 55 דקות טיסות למילאנו ינואר 2027 פברואר 2027 מרץ 2027 $118",
+      "raw_text": "פורסם לפני 3 שעות טיסות למילאנו ינואר 2027 פברואר 2027 מרץ 2027 $118",
       "destination": "מילאנו",
       "price_usd": 118,
       "url": "https://secretflights.co.il/flights-to-milan/"
     },
     {
-      "raw_text": "פורסם לפני 24 שעות טיסות לבולגריה אוגוסט 2026 ספטמבר 2026 $118",
+      "raw_text": "פורסם לפני יום 1 טיסות לבולגריה אוגוסט 2026 ספטמבר 2026 $118",
       "destination": "בולגריה",
       "price_usd": 118,
       "url": "https://secretflights.co.il/flights-to-bulgaria/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות ללונדון ינואר 2027 פברואר 2027 מרץ 2027 $134",
+      "raw_text": "פורסם לפני 2 ימים טיסות ללונדון ינואר 2027 פברואר 2027 מרץ 2027 $132",
       "destination": "לונדון",
-      "price_usd": 134,
+      "price_usd": 132,
       "url": "https://secretflights.co.il/flights-to-london/"
     },
     {
@@ -52,27 +52,27 @@
       "url": "https://secretflights.co.il/flights-to-barcelona/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לסיאול ספטמבר 2026 אפריל 2027 יולי 2027 $695",
+      "raw_text": "פורסם לפני 2 ימים טיסות לסיאול ספטמבר 2026 אפריל 2027 יולי 2027 $689",
       "destination": "סיאול",
-      "price_usd": 695,
+      "price_usd": 689,
       "url": "https://secretflights.co.il/flights-to-seoul/"
     },
     {
-      "raw_text": "פורסם לפני 4 ימים טיסות לניו יורק נובמבר 2026 פברואר 2027 $723",
-      "destination": "ניו יורק",
-      "price_usd": 723,
-      "url": "https://secretflights.co.il/flights-to-new-york/"
-    },
-    {
-      "raw_text": "פורסם לפני 16 שעות טיסות לבנגקוק מגוון חודשים $732",
+      "raw_text": "פורסם לפני 18 שעות טיסות לבנגקוק מגוון חודשים $726",
       "destination": "בנגקוק",
-      "price_usd": 732,
+      "price_usd": 726,
       "url": "https://secretflights.co.il/flights-to-bangkok/"
     },
     {
-      "raw_text": "פורסם לפני 19 שעות טיסות ללאס וגאס ינואר 2027 פברואר 2027 מרץ 2027 $809",
+      "raw_text": "פורסם לפני שעה 1 טיסות לבוסטון נובמבר 2026 פברואר 2027 מרץ 2027 $755",
+      "destination": "בוסטון",
+      "price_usd": 755,
+      "url": "https://secretflights.co.il/flights-to-boston/"
+    },
+    {
+      "raw_text": "פורסם לפני 21 שעות טיסות ללאס וגאס ינואר 2027 פברואר 2027 מרץ 2027 $874",
       "destination": "לאס וגאס",
-      "price_usd": 809,
+      "price_usd": 874,
       "url": "https://secretflights.co.il/flights-to-las-vegas/"
     }
   ]
