@@ -1,6 +1,6 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-08-29T18:03:46.795290+00:00",
+  "updated_at": "2026-08-29T22:56:29.550119+00:00",
   "deals_count": 12,
   "deals": [
     {
@@ -22,9 +22,9 @@
       "url": "https://secretflights.co.il/flights-to-athens/"
     },
     {
-      "raw_text": "פורסם לפני 12 שעות טיסות לורשה מגוון חודשים $127",
+      "raw_text": "פורסם לפני 17 שעות טיסות לורשה מגוון חודשים $124",
       "destination": "ורשה",
-      "price_usd": 127,
+      "price_usd": 124,
       "url": "https://secretflights.co.il/flights-to-warsaw/"
     },
     {
@@ -34,13 +34,13 @@
       "url": "https://secretflights.co.il/flights-to-budapest/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות ליוון אוגוסט 2026 ספטמבר 2026 $138",
+      "raw_text": "פורסם לפני 3 ימים טיסות ליוון אוגוסט 2026 ספטמבר 2026 $139",
       "destination": "יוון",
-      "price_usd": 138,
+      "price_usd": 139,
       "url": "https://secretflights.co.il/flights-to-greece/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות לבלגרד מגוון חודשים $226",
+      "raw_text": "פורסם לפני 2 ימים טיסות לבלגרד מגוון חודשים $226",
       "destination": "בלגרד",
       "price_usd": 226,
       "url": "https://secretflights.co.il/flights-to-belgrade/"
@@ -58,7 +58,7 @@
       "url": "https://secretflights.co.il/flights-to-sri-lanka/"
     },
     {
-      "raw_text": "פורסם לפני שעה 1 טיסות לבנגקוק יולי 2027 $681",
+      "raw_text": "פורסם לפני 6 שעות טיסות לבנגקוק יולי 2027 $681",
       "destination": "בנגקוק",
       "price_usd": 681,
       "url": "https://secretflights.co.il/flights-to-bangkok/"
@@ -70,7 +70,7 @@
       "url": "https://secretflights.co.il/flights-to-japan/"
     },
     {
-      "raw_text": "פורסם לפני 9 שעות טיסות לניו יורק ספטמבר 2026 $875",
+      "raw_text": "פורסם לפני 13 שעות טיסות לניו יורק ספטמבר 2026 $875",
       "destination": "ניו יורק",
       "price_usd": 875,
       "url": "https://secretflights.co.il/flights-to-new-york/"
