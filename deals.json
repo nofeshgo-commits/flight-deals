@@ -1,6 +1,6 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-08-28T23:47:22.185308+00:00",
+  "updated_at": "2026-08-29T04:57:44.234080+00:00",
   "deals_count": 12,
   "deals": [
     {
@@ -10,7 +10,7 @@
       "url": "https://secretflights.co.il/flights-to-sicily/"
     },
     {
-      "raw_text": "פורסם לפני 9 שעות טיסות לנאפולי מגוון חודשים $97",
+      "raw_text": "פורסם לפני 15 שעות טיסות לנאפולי מגוון חודשים $97",
       "destination": "נאפולי",
       "price_usd": 97,
       "url": "https://secretflights.co.il/flights-to-naples/"
@@ -34,15 +34,15 @@
       "url": "https://secretflights.co.il/flights-to-budapest/"
     },
     {
-      "raw_text": "פורסם לפני 15 שעות טיסות לבלגרד מגוון חודשים $224",
+      "raw_text": "פורסם לפני 20 שעות טיסות לבלגרד מגוון חודשים $224",
       "destination": "בלגרד",
       "price_usd": 224,
       "url": "https://secretflights.co.il/flights-to-belgrade/"
     },
     {
-      "raw_text": "פורסם לפני 11 שעות טיסות לבאקו נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $240",
+      "raw_text": "פורסם לפני 16 שעות טיסות לבאקו נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $226",
       "destination": "באקו",
-      "price_usd": 240,
+      "price_usd": 226,
       "url": "https://secretflights.co.il/flights-to-baku"
     },
     {
@@ -52,27 +52,27 @@
       "url": "https://secretflights.co.il/flights-to-malaga/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לפוקט מגוון חודשים $676",
+      "raw_text": "פורסם לפני 3 ימים טיסות לפוקט מגוון חודשים $676",
       "destination": "פוקט",
       "price_usd": 676,
       "url": "https://secretflights.co.il/flights-to-phuket/"
     },
     {
-      "raw_text": "פורסם לפני 13 שעות טיסות לסרי לנקה יולי 2027 $683",
+      "raw_text": "פורסם לפני 18 שעות טיסות לסרי לנקה יולי 2027 $683",
       "destination": "סרי לנקה",
       "price_usd": 683,
       "url": "https://secretflights.co.il/flights-to-sri-lanka/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לפיליפינים אוקטובר 2026 נובמבר 2026 מאי 2027 יוני 2027 $761",
+      "raw_text": "פורסם לפני 3 ימים טיסות לפיליפינים אוקטובר 2026 נובמבר 2026 מאי 2027 יוני 2027 $761",
       "destination": "פיליפינים",
       "price_usd": 761,
       "url": "https://secretflights.co.il/flights-to-philippines/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות ליפן ינואר 2027 פברואר 2027 $866",
+      "raw_text": "פורסם לפני 2 ימים טיסות ליפן ינואר 2027 פברואר 2027 $864",
       "destination": "יפן",
-      "price_usd": 866,
+      "price_usd": 864,
       "url": "https://secretflights.co.il/flights-to-japan/"
     }
   ]
