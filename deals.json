@@ -1,6 +1,6 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-09-02T22:55:02.148022+00:00",
+  "updated_at": "2026-09-03T02:18:28.309300+00:00",
   "deals_count": 12,
   "deals": [
     {
@@ -16,21 +16,21 @@
       "url": "https://secretflights.co.il/flights-to-slovakia/"
     },
     {
-      "raw_text": "פורסם לפני 10 שעות טיסות לטביליסי אוקטובר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $148",
+      "raw_text": "פורסם לפני 13 שעות טיסות לטביליסי אוקטובר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $148",
       "destination": "טביליסי",
       "price_usd": 148,
       "url": "https://secretflights.co.il/flights-to-tbilisi/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לבטומי אוקטובר 2026 נובמבר 2026 $159",
+      "raw_text": "פורסם לפני 2 ימים טיסות לבטומי אוקטובר 2026 נובמבר 2026 $160",
       "destination": "בטומי",
-      "price_usd": 159,
+      "price_usd": 160,
       "url": "https://secretflights.co.il/flights-to-batumi/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לפראג ספטמבר 2026 $166",
+      "raw_text": "פורסם לפני 2 ימים טיסות לפראג ספטמבר 2026 $163",
       "destination": "פראג",
-      "price_usd": 166,
+      "price_usd": 163,
       "url": "https://secretflights.co.il/flights-to-prague/"
     },
     {
@@ -46,9 +46,9 @@
       "url": "https://secretflights.co.il/flights-to-austria/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות לפוקט מגוון חודשים $659",
+      "raw_text": "פורסם לפני יום 1 טיסות לפוקט מגוון חודשים $662",
       "destination": "פוקט",
-      "price_usd": 659,
+      "price_usd": 662,
       "url": "https://secretflights.co.il/flights-to-phuket/"
     },
     {
@@ -58,19 +58,19 @@
       "url": "https://secretflights.co.il/flights-to-singapore/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות למאוריציוס ינואר 2027 פברואר 2027 מרץ 2027 $716",
+      "raw_text": "פורסם לפני 2 ימים טיסות למאוריציוס ינואר 2027 פברואר 2027 מרץ 2027 $715",
       "destination": "מאוריציוס",
-      "price_usd": 716,
+      "price_usd": 715,
       "url": "https://secretflights.co.il/flights-to-mauritius"
     },
     {
-      "raw_text": "פורסם לפני 8 שעות טיסות למרכז אמריקה ספטמבר 2026 $720",
+      "raw_text": "פורסם לפני 11 שעות טיסות למרכז אמריקה ספטמבר 2026 $720",
       "destination": "מרכז אמריקה",
       "price_usd": 720,
       "url": "https://secretflights.co.il/flights-to-central-america/"
     },
     {
-      "raw_text": "פורסם לפני 14 שעות טיסות לבנגקוק ספטמבר 2026 $777",
+      "raw_text": "פורסם לפני 17 שעות טיסות לבנגקוק ספטמבר 2026 $777",
       "destination": "בנגקוק",
       "price_usd": 777,
       "url": "https://secretflights.co.il/flights-to-bangkok/"
