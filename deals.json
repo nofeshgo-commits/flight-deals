@@ -1,8 +1,14 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-09-05T17:02:38.125321+00:00",
+  "updated_at": "2026-09-05T19:45:07.812599+00:00",
   "deals_count": 12,
   "deals": [
+    {
+      "raw_text": "פורסם לפני 11 שעות טיסות לפראג ספטמבר 2026 $54",
+      "destination": "פראג",
+      "price_usd": 54,
+      "url": "https://secretflights.co.il/flights-to-prague/"
+    },
     {
       "raw_text": "פורסם לפני יום 1 טיסות ישראייר מגוון חודשים $84",
       "destination": "ישראייר",
@@ -16,9 +22,9 @@
       "url": "https://secretflights.co.il/flights-to-paphos/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לטביליסי אוקטובר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $148",
+      "raw_text": "פורסם לפני 3 ימים טיסות לטביליסי אוקטובר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $144",
       "destination": "טביליסי",
-      "price_usd": 148,
+      "price_usd": 144,
       "url": "https://secretflights.co.il/flights-to-tbilisi/"
     },
     {
@@ -44,12 +50,6 @@
       "destination": "קורפו",
       "price_usd": 165,
       "url": "https://secretflights.co.il/flights-to-corfu/"
-    },
-    {
-      "raw_text": "פורסם לפני 9 שעות טיסות לפראג ספטמבר 2026 $194",
-      "destination": "פראג",
-      "price_usd": 194,
-      "url": "https://secretflights.co.il/flights-to-prague/"
     },
     {
       "raw_text": "פורסם לפני 2 ימים טיסות למדריד מגוון חודשים $279",
