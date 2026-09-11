@@ -1,12 +1,12 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-09-10T22:51:52.291704+00:00",
+  "updated_at": "2026-09-11T02:16:39.714502+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני יום 1 טיסות ללרנקה אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $54",
+      "raw_text": "פורסם לפני 2 ימים טיסות ללרנקה אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $50",
       "destination": "לרנקה",
-      "price_usd": 54,
+      "price_usd": 50,
       "url": "https://secretflights.co.il/flights-to-larnaca/"
     },
     {
@@ -16,9 +16,9 @@
       "url": "https://secretflights.co.il/flights-to-athens/"
     },
     {
-      "raw_text": "פורסם לפני 14 שעות טיסות לסופיה מגוון חודשים $120",
+      "raw_text": "פורסם לפני 18 שעות טיסות לסופיה מגוון חודשים $119",
       "destination": "סופיה",
-      "price_usd": 120,
+      "price_usd": 119,
       "url": "https://secretflights.co.il/flights-to-sofia/"
     },
     {
@@ -28,13 +28,13 @@
       "url": "https://secretflights.co.il/flights-to-albania/"
     },
     {
-      "raw_text": "פורסם לפני 4 שעות טיסות לפראג ספטמבר 2026 אוקטובר 2026 נובמבר 2026 $197",
+      "raw_text": "פורסם לפני 8 שעות טיסות לפראג ספטמבר 2026 אוקטובר 2026 נובמבר 2026 $197",
       "destination": "פראג",
       "price_usd": 197,
       "url": "https://secretflights.co.il/flights-to-prague/"
     },
     {
-      "raw_text": "פורסם לפני 6 שעות טיסות מחיפה נובמבר 2026 $198",
+      "raw_text": "פורסם לפני 9 שעות טיסות מחיפה נובמבר 2026 $198",
       "destination": "מחיפה",
       "price_usd": 198,
       "url": "https://secretflights.co.il/flights-from-haifa/"
@@ -46,21 +46,21 @@
       "url": "https://secretflights.co.il/flights-to-madrid/"
     },
     {
-      "raw_text": "פורסם לפני 6 שעות טיסות לדובאי נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $222",
+      "raw_text": "פורסם לפני 10 שעות טיסות לדובאי נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $222",
       "destination": "דובאי",
       "price_usd": 222,
       "url": "https://secretflights.co.il/flights-to-dubai/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות לתאילנד מגוון חודשים $677",
+      "raw_text": "פורסם לפני יום 1 טיסות לתאילנד מגוון חודשים $679",
       "destination": "תאילנד",
-      "price_usd": 677,
+      "price_usd": 679,
       "url": "https://secretflights.co.il/flights-to-thailand/"
     },
     {
-      "raw_text": "פורסם לפני 12 שעות טיסות לסיאול מגוון חודשים $686",
+      "raw_text": "פורסם לפני 15 שעות טיסות לסיאול מגוון חודשים $685",
       "destination": "סיאול",
-      "price_usd": 686,
+      "price_usd": 685,
       "url": "https://secretflights.co.il/flights-to-seoul/"
     },
     {
