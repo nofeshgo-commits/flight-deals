@@ -1,24 +1,18 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-09-16T13:55:52.381008+00:00",
+  "updated_at": "2026-09-16T18:34:43.915385+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות ברגע האחרון ספטמבר 2026 $104",
-      "destination": "ברגע האחרון",
-      "price_usd": 104,
-      "url": "https://secretflights.co.il/last-minute-flights/"
-    },
-    {
-      "raw_text": "פורסם לפני 2 שעות טיסות למילאנו ינואר 2027 פברואר 2027 מרץ 2027 $116",
+      "raw_text": "פורסם לפני 7 שעות טיסות למילאנו ינואר 2027 פברואר 2027 מרץ 2027 $116",
       "destination": "מילאנו",
       "price_usd": 116,
       "url": "https://secretflights.co.il/flights-to-milan/"
     },
     {
-      "raw_text": "פורסם לפני 6 שעות טיסות לקפריסין ספטמבר 2026 $116",
+      "raw_text": "פורסם לפני 10 שעות טיסות לקפריסין ספטמבר 2026 $123",
       "destination": "קפריסין",
-      "price_usd": 116,
+      "price_usd": 123,
       "url": "https://secretflights.co.il/flights-to-cyprus/"
     },
     {
@@ -34,39 +28,45 @@
       "url": "https://secretflights.co.il/flights-to-thessaloniki/"
     },
     {
-      "raw_text": "פורסם לפני 20 שעות טיסות לאתונה אוגוסט 2026 יולי 2027 $138",
+      "raw_text": "פורסם לפני יום 1 טיסות לאתונה אוגוסט 2026 יולי 2027 $138",
       "destination": "אתונה",
       "price_usd": 138,
       "url": "https://secretflights.co.il/flights-to-athens/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לורשה אוקטובר 2026 נובמבר 2026 $184",
+      "raw_text": "פורסם לפני 5 שעות טיסות לטביליסי מגוון חודשים $153",
+      "destination": "טביליסי",
+      "price_usd": 153,
+      "url": "https://secretflights.co.il/flights-to-tbilisi/"
+    },
+    {
+      "raw_text": "פורסם לפני 2 ימים טיסות לורשה אוקטובר 2026 נובמבר 2026 $186",
       "destination": "ורשה",
-      "price_usd": 184,
+      "price_usd": 186,
       "url": "https://secretflights.co.il/flights-to-warsaw/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות לברלין מגוון חודשים $209",
+      "raw_text": "פורסם לפני יום 1 טיסות לברלין מגוון חודשים $211",
       "destination": "ברלין",
-      "price_usd": 209,
+      "price_usd": 211,
       "url": "https://secretflights.co.il/flights-to-berlin/"
     },
     {
-      "raw_text": "פורסם לפני 8 שעות טיסות ללפלנד נובמבר 2026 ינואר 2027 $382",
+      "raw_text": "פורסם לפני 12 שעות טיסות ללפלנד נובמבר 2026 ינואר 2027 $382",
       "destination": "לפלנד",
       "price_usd": 382,
       "url": "https://secretflights.co.il/flights-to-lapland/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לפוקט מגוון חודשים $678",
+      "raw_text": "פורסם לפני 2 ימים טיסות לפוקט מגוון חודשים $680",
       "destination": "פוקט",
-      "price_usd": 678,
+      "price_usd": 680,
       "url": "https://secretflights.co.il/flights-to-phuket/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לסיאול אוגוסט 2026 יולי 2027 $699",
+      "raw_text": "פורסם לפני 2 ימים טיסות לסיאול אוגוסט 2026 יולי 2027 $695",
       "destination": "סיאול",
-      "price_usd": 699,
+      "price_usd": 695,
       "url": "https://secretflights.co.il/flights-to-seoul/"
     },
     {
