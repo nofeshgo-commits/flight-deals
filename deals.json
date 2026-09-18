@@ -1,10 +1,10 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-09-18T07:48:35.916878+00:00",
+  "updated_at": "2026-09-18T13:16:50.689938+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 17 שעות טיסות לקפריסין אוקטובר 2026 $97",
+      "raw_text": "פורסם לפני 23 שעות טיסות לקפריסין אוקטובר 2026 $97",
       "destination": "קפריסין",
       "price_usd": 97,
       "url": "https://secretflights.co.il/flights-to-cyprus/"
@@ -16,13 +16,19 @@
       "url": "https://secretflights.co.il/flights-to-milan/"
     },
     {
-      "raw_text": "פורסם לפני 14 שעות טיסות לאיטליה יולי 2027 אוגוסט 2027 $121",
+      "raw_text": "פורסם לפני 20 שעות טיסות לאיטליה יולי 2027 אוגוסט 2027 $121",
       "destination": "איטליה",
       "price_usd": 121,
       "url": "https://secretflights.co.il/flights-to-italy/"
     },
     {
-      "raw_text": "פורסם לפני 22 שעות טיסות לבוקרשט ינואר 2027 פברואר 2027 מרץ 2027 $133",
+      "raw_text": "פורסם לפני 4 שעות טיסות לבודפשט נובמבר 2026 דצמבר 2026 $126",
+      "destination": "בודפשט",
+      "price_usd": 126,
+      "url": "https://secretflights.co.il/flights-to-budapest/"
+    },
+    {
+      "raw_text": "פורסם לפני יום 1 טיסות לבוקרשט ינואר 2027 פברואר 2027 מרץ 2027 $133",
       "destination": "בוקרשט",
       "price_usd": 133,
       "url": "https://secretflights.co.il/flights-to-bucharest/"
@@ -40,9 +46,9 @@
       "url": "https://secretflights.co.il/flights-to-tbilisi/"
     },
     {
-      "raw_text": "פורסם לפני 18 דקות טיסות לפראג מגוון חודשים $194",
+      "raw_text": "פורסם לפני 6 שעות טיסות לפראג מגוון חודשים $200",
       "destination": "פראג",
-      "price_usd": 194,
+      "price_usd": 200,
       "url": "https://secretflights.co.il/flights-to-prague/"
     },
     {
@@ -58,16 +64,10 @@
       "url": "https://secretflights.co.il/flights-to-lapland/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות לתאילנד מגוון חודשים $655",
+      "raw_text": "פורסם לפני יום 1 טיסות לתאילנד מגוון חודשים $656",
       "destination": "תאילנד",
-      "price_usd": 655,
+      "price_usd": 656,
       "url": "https://secretflights.co.il/flights-to-thailand/"
-    },
-    {
-      "raw_text": "פורסם לפני 4 ימים טיסות לפוקט מגוון חודשים $679",
-      "destination": "פוקט",
-      "price_usd": 679,
-      "url": "https://secretflights.co.il/flights-to-phuket/"
     },
     {
       "raw_text": "פורסם לפני 3 ימים טיסות לוייטנאם אוקטובר 2026 $783",
