@@ -1,16 +1,16 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-09-20T20:03:22.770461+00:00",
+  "updated_at": "2026-09-20T22:50:07.217082+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 12 שעות טיסות לסיציליה מגוון חודשים $80",
+      "raw_text": "פורסם לפני 15 שעות טיסות לסיציליה מגוון חודשים $80",
       "destination": "סיציליה",
       "price_usd": 80,
       "url": "https://secretflights.co.il/flights-to-sicily/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות ברגע האחרון ספטמבר 2026 $104",
+      "raw_text": "פורסם לפני 2 ימים טיסות ברגע האחרון ספטמבר 2026 $104",
       "destination": "ברגע האחרון",
       "price_usd": 104,
       "url": "https://secretflights.co.il/last-minute-flights/"
@@ -22,7 +22,7 @@
       "url": "https://secretflights.co.il/flights-to-italy/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לבודפשט נובמבר 2026 דצמבר 2026 $127",
+      "raw_text": "פורסם לפני 3 ימים טיסות לבודפשט נובמבר 2026 דצמבר 2026 $127",
       "destination": "בודפשט",
       "price_usd": 127,
       "url": "https://secretflights.co.il/flights-to-budapest/"
@@ -34,9 +34,9 @@
       "url": "https://secretflights.co.il/flights-to-batumi/"
     },
     {
-      "raw_text": "פורסם לפני 9 שעות טיסות למונטנגרו אוקטובר 2026 $168",
+      "raw_text": "פורסם לפני 12 שעות טיסות למונטנגרו אוקטובר 2026 $174",
       "destination": "מונטנגרו",
-      "price_usd": 168,
+      "price_usd": 174,
       "url": "https://secretflights.co.il/flights-to-montenegro/"
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://secretflights.co.il/flights-to-dubai/"
     },
     {
-      "raw_text": "פורסם לפני 24 שעות טיסות לליסבון אוקטובר 2026 נובמבר 2026 דצמבר 2026 $262",
+      "raw_text": "פורסם לפני יום 1 טיסות לליסבון אוקטובר 2026 נובמבר 2026 דצמבר 2026 $262",
       "destination": "ליסבון",
       "price_usd": 262,
       "url": "https://secretflights.co.il/flights-to-lisbon/"
@@ -70,9 +70,9 @@
       "url": "https://secretflights.co.il/flights-to-miami/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות פרימיום אקונומי אפריל 2027 $1483",
+      "raw_text": "פורסם לפני 2 ימים טיסות פרימיום אקונומי אפריל 2027 $1543",
       "destination": "פרימיום אקונומי",
-      "price_usd": 1483,
+      "price_usd": 1543,
       "url": "https://secretflights.co.il/premium-economy-flights/"
     }
   ]
