@@ -1,10 +1,10 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-09-20T22:50:07.217082+00:00",
+  "updated_at": "2026-09-21T02:35:54.446203+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 15 שעות טיסות לסיציליה מגוון חודשים $80",
+      "raw_text": "פורסם לפני 18 שעות טיסות לסיציליה מגוון חודשים $80",
       "destination": "סיציליה",
       "price_usd": 80,
       "url": "https://secretflights.co.il/flights-to-sicily/"
@@ -34,7 +34,7 @@
       "url": "https://secretflights.co.il/flights-to-batumi/"
     },
     {
-      "raw_text": "פורסם לפני 12 שעות טיסות למונטנגרו אוקטובר 2026 $174",
+      "raw_text": "פורסם לפני 15 שעות טיסות למונטנגרו אוקטובר 2026 $174",
       "destination": "מונטנגרו",
       "price_usd": 174,
       "url": "https://secretflights.co.il/flights-to-montenegro/"
@@ -64,7 +64,7 @@
       "url": "https://secretflights.co.il/flights-to-zanzibar/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות למיאמי ינואר 2027 פברואר 2027 מרץ 2027 $744",
+      "raw_text": "פורסם לפני 3 ימים טיסות למיאמי ינואר 2027 פברואר 2027 מרץ 2027 $744",
       "destination": "מיאמי",
       "price_usd": 744,
       "url": "https://secretflights.co.il/flights-to-miami/"
