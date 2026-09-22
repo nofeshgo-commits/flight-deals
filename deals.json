@@ -1,6 +1,6 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-09-21T21:29:00.382126+00:00",
+  "updated_at": "2026-09-22T02:38:00.345336+00:00",
   "deals_count": 12,
   "deals": [
     {
@@ -10,15 +10,15 @@
       "url": "https://secretflights.co.il/flights-to-sicily/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות ברגע האחרון ספטמבר 2026 $106",
+      "raw_text": "פורסם לפני 3 ימים טיסות ברגע האחרון ספטמבר 2026 $106",
       "destination": "ברגע האחרון",
       "price_usd": 106,
       "url": "https://secretflights.co.il/last-minute-flights/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לבודפשט נובמבר 2026 דצמבר 2026 $127",
+      "raw_text": "פורסם לפני 4 ימים טיסות לבודפשט נובמבר 2026 דצמבר 2026 $126",
       "destination": "בודפשט",
-      "price_usd": 127,
+      "price_usd": 126,
       "url": "https://secretflights.co.il/flights-to-budapest/"
     },
     {
@@ -28,15 +28,15 @@
       "url": "https://secretflights.co.il/flights-to-batumi/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות למונטנגרו אוקטובר 2026 $188",
+      "raw_text": "פורסם לפני 2 ימים טיסות למונטנגרו אוקטובר 2026 $185",
       "destination": "מונטנגרו",
-      "price_usd": 188,
+      "price_usd": 185,
       "url": "https://secretflights.co.il/flights-to-montenegro/"
     },
     {
-      "raw_text": "פורסם לפני 4 ימים טיסות לפראג מגוון חודשים $196",
+      "raw_text": "פורסם לפני 4 ימים טיסות לפראג מגוון חודשים $195",
       "destination": "פראג",
-      "price_usd": 196,
+      "price_usd": 195,
       "url": "https://secretflights.co.il/flights-to-prague/"
     },
     {
@@ -52,9 +52,9 @@
       "url": "https://secretflights.co.il/flights-to-lisbon/"
     },
     {
-      "raw_text": "פורסם לפני 4 שעות טיסות אתיחאד מגוון חודשים $282",
+      "raw_text": "פורסם לפני 9 שעות טיסות אתיחאד מגוון חודשים $284",
       "destination": "אתיחאד",
-      "price_usd": 282,
+      "price_usd": 284,
       "url": "https://secretflights.co.il/etihad-flights/"
     },
     {
@@ -64,9 +64,9 @@
       "url": "https://secretflights.co.il/flights-to-zanzibar/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות למיאמי ינואר 2027 פברואר 2027 מרץ 2027 $744",
+      "raw_text": "פורסם לפני 4 ימים טיסות למיאמי ינואר 2027 פברואר 2027 מרץ 2027 $989",
       "destination": "מיאמי",
-      "price_usd": 744,
+      "price_usd": 989,
       "url": "https://secretflights.co.il/flights-to-miami/"
     },
     {
