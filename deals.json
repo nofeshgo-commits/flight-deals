@@ -1,6 +1,6 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-09-23T02:38:12.539849+00:00",
+  "updated_at": "2026-09-23T08:08:46.411013+00:00",
   "deals_count": 12,
   "deals": [
     {
@@ -10,33 +10,33 @@
       "url": "https://secretflights.co.il/flights-to-sicily/"
     },
     {
-      "raw_text": "פורסם לפני 4 ימים טיסות ברגע האחרון ספטמבר 2026 $105",
+      "raw_text": "פורסם לפני 38 דקות טיסות ברגע האחרון ספטמבר 2026 $105",
       "destination": "ברגע האחרון",
       "price_usd": 105,
       "url": "https://secretflights.co.il/last-minute-flights/"
     },
     {
-      "raw_text": "פורסם לפני 4 ימים טיסות לבטומי אוקטובר 2026 נובמבר 2026 $156",
+      "raw_text": "פורסם לפני 4 ימים טיסות לבטומי אוקטובר 2026 נובמבר 2026 $150",
       "destination": "בטומי",
-      "price_usd": 156,
+      "price_usd": 150,
       "url": "https://secretflights.co.il/flights-to-batumi/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות למונטנגרו אוקטובר 2026 $168",
+      "raw_text": "פורסם לפני 3 ימים טיסות למונטנגרו אוקטובר 2026 $169",
       "destination": "מונטנגרו",
-      "price_usd": 168,
+      "price_usd": 169,
       "url": "https://secretflights.co.il/flights-to-montenegro/"
     },
     {
-      "raw_text": "פורסם לפני 16 שעות טיסות לפריז ינואר 2027 פברואר 2027 $175",
+      "raw_text": "פורסם לפני 22 שעות טיסות לפריז ינואר 2027 פברואר 2027 $174",
       "destination": "פריז",
-      "price_usd": 175,
+      "price_usd": 174,
       "url": "https://secretflights.co.il/flights-to-paris/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לדובאי אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $214",
+      "raw_text": "פורסם לפני 4 ימים טיסות לדובאי אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $252",
       "destination": "דובאי",
-      "price_usd": 214,
+      "price_usd": 252,
       "url": "https://secretflights.co.il/flights-to-dubai/"
     },
     {
@@ -46,19 +46,19 @@
       "url": "https://secretflights.co.il/flights-to-lisbon/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות אתיחאד מגוון חודשים $286",
+      "raw_text": "פורסם לפני 2 ימים טיסות אתיחאד מגוון חודשים $283",
       "destination": "אתיחאד",
-      "price_usd": 286,
+      "price_usd": 283,
       "url": "https://secretflights.co.il/etihad-flights/"
     },
     {
-      "raw_text": "פורסם לפני 4 ימים טיסות לזנזיבר נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $538",
-      "destination": "זנזיבר",
-      "price_usd": 538,
-      "url": "https://secretflights.co.il/flights-to-zanzibar/"
+      "raw_text": "פורסם לפני 14 שעות טיסות לתאילנד נובמבר 2026 דצמבר 2026 $625",
+      "destination": "תאילנד",
+      "price_usd": 625,
+      "url": "https://secretflights.co.il/flights-to-thailand/"
     },
     {
-      "raw_text": "פורסם לפני 14 שעות טיסות למיאמי אוקטובר 2026 $772",
+      "raw_text": "פורסם לפני 19 שעות טיסות למיאמי אוקטובר 2026 $772",
       "destination": "מיאמי",
       "price_usd": 772,
       "url": "https://secretflights.co.il/flights-to-miami/"
@@ -70,9 +70,9 @@
       "url": "https://secretflights.co.il/premium-economy-flights/"
     },
     {
-      "raw_text": "פורסם לפני 18 שעות טיסות במחלקת עסקים מגוון חודשים $2126",
+      "raw_text": "פורסם לפני 23 שעות טיסות במחלקת עסקים מגוון חודשים $2077",
       "destination": "במחלקת עסקים",
-      "price_usd": 2126,
+      "price_usd": 2077,
       "url": "https://secretflights.co.il/business-class-flights/"
     }
   ]
