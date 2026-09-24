@@ -1,6 +1,6 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-09-23T23:22:03.428352+00:00",
+  "updated_at": "2026-09-24T02:27:35.916440+00:00",
   "deals_count": 12,
   "deals": [
     {
@@ -10,13 +10,13 @@
       "url": "https://secretflights.co.il/flights-to-sicily/"
     },
     {
-      "raw_text": "פורסם לפני 16 שעות טיסות ברגע האחרון ספטמבר 2026 $104",
+      "raw_text": "פורסם לפני 19 שעות טיסות ברגע האחרון ספטמבר 2026 $104",
       "destination": "ברגע האחרון",
       "price_usd": 104,
       "url": "https://secretflights.co.il/last-minute-flights/"
     },
     {
-      "raw_text": "פורסם לפני 9 שעות טיסות לאתונה נובמבר 2026 דצמבר 2026 ינואר 2027 $108",
+      "raw_text": "פורסם לפני 12 שעות טיסות לאתונה נובמבר 2026 דצמבר 2026 ינואר 2027 $108",
       "destination": "אתונה",
       "price_usd": 108,
       "url": "https://secretflights.co.il/flights-to-athens/"
@@ -52,19 +52,19 @@
       "url": "https://secretflights.co.il/etihad-flights/"
     },
     {
-      "raw_text": "פורסם לפני 14 שעות טיסות לסרי לנקה אוקטובר 2026 נובמבר 2026 ינואר 2027 $547",
+      "raw_text": "פורסם לפני 17 שעות טיסות לסרי לנקה אוקטובר 2026 נובמבר 2026 ינואר 2027 $547",
       "destination": "סרי לנקה",
       "price_usd": 547,
       "url": "https://secretflights.co.il/flights-to-sri-lanka/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות לתאילנד נובמבר 2026 דצמבר 2026 $621",
+      "raw_text": "פורסם לפני יום 1 טיסות לתאילנד נובמבר 2026 דצמבר 2026 $619",
       "destination": "תאילנד",
-      "price_usd": 621,
+      "price_usd": 619,
       "url": "https://secretflights.co.il/flights-to-thailand/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות למיאמי אוקטובר 2026 $775",
+      "raw_text": "פורסם לפני 2 ימים טיסות למיאמי אוקטובר 2026 $775",
       "destination": "מיאמי",
       "price_usd": 775,
       "url": "https://secretflights.co.il/flights-to-miami/"
