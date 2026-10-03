@@ -1,19 +1,19 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-10-02T21:38:36.122277+00:00",
+  "updated_at": "2026-10-03T03:07:20.469354+00:00",
   "deals_count": 12,
   "deals": [
-    {
-      "raw_text": "פורסם לפני 2 ימים טיסות לקפריסין אוקטובר 2026 $66",
-      "destination": "קפריסין",
-      "price_usd": 66,
-      "url": "https://secretflights.co.il/flights-to-cyprus/"
-    },
     {
       "raw_text": "פורסם לפני 2 ימים טיסות לסיציליה נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $77",
       "destination": "סיציליה",
       "price_usd": 77,
       "url": "https://secretflights.co.il/flights-to-sicily/"
+    },
+    {
+      "raw_text": "פורסם לפני 2 ימים טיסות לקפריסין אוקטובר 2026 $79",
+      "destination": "קפריסין",
+      "price_usd": 79,
+      "url": "https://secretflights.co.il/flights-to-cyprus/"
     },
     {
       "raw_text": "פורסם לפני 3 ימים טיסות ליוון אוקטובר 2026 $109",
@@ -22,16 +22,16 @@
       "url": "https://secretflights.co.il/flights-to-greece/"
     },
     {
-      "raw_text": "פורסם לפני 10 שעות טיסות לורנה יוני 2027 יולי 2027 $119",
-      "destination": "ורנה",
-      "price_usd": 119,
-      "url": "https://secretflights.co.il/flights-to-varna/"
+      "raw_text": "פורסם לפני 18 שעות טיסות לסלובקיה מגוון חודשים $120",
+      "destination": "סלובקיה",
+      "price_usd": 120,
+      "url": "https://secretflights.co.il/flights-to-slovakia/"
     },
     {
-      "raw_text": "פורסם לפני 14 שעות טיסות לסלובקיה מגוון חודשים $123",
-      "destination": "סלובקיה",
-      "price_usd": 123,
-      "url": "https://secretflights.co.il/flights-to-slovakia/"
+      "raw_text": "פורסם לפני 15 שעות טיסות לורנה יוני 2027 יולי 2027 $121",
+      "destination": "ורנה",
+      "price_usd": 121,
+      "url": "https://secretflights.co.il/flights-to-varna/"
     },
     {
       "raw_text": "פורסם לפני יום 1 טיסות לבוקרשט אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $141",
@@ -40,19 +40,19 @@
       "url": "https://secretflights.co.il/flights-to-bucharest/"
     },
     {
-      "raw_text": "פורסם לפני 9 שעות טיסות לטביליסי מגוון חודשים $147",
+      "raw_text": "פורסם לפני 13 שעות טיסות לטביליסי מגוון חודשים $149",
       "destination": "טביליסי",
-      "price_usd": 147,
+      "price_usd": 149,
       "url": "https://secretflights.co.il/flights-to-tbilisi/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לברצלונה אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $241",
+      "raw_text": "פורסם לפני 3 ימים טיסות לברצלונה אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $241",
       "destination": "ברצלונה",
       "price_usd": 241,
       "url": "https://secretflights.co.il/flights-to-barcelona/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות לליסבון אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $282",
+      "raw_text": "פורסם לפני 2 ימים טיסות לליסבון אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $282",
       "destination": "ליסבון",
       "price_usd": 282,
       "url": "https://secretflights.co.il/flights-to-lisbon/"
@@ -64,7 +64,7 @@
       "url": "https://secretflights.co.il/flights-to-miami/"
     },
     {
-      "raw_text": "פורסם לפני 7 שעות טיסות לרפובליקה הדומיניקנית אוקטובר 2026 $779",
+      "raw_text": "פורסם לפני 11 שעות טיסות לרפובליקה הדומיניקנית אוקטובר 2026 $779",
       "destination": "רפובליקה הדומיניקנית",
       "price_usd": 779,
       "url": "https://secretflights.co.il/flights-to-punta-cana/"
