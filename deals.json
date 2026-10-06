@@ -1,22 +1,22 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-10-06T04:05:16.622370+00:00",
+  "updated_at": "2026-10-06T12:30:24.205012+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 10 שעות טיסות סופ\"ש מגוון חודשים $53",
+      "raw_text": "פורסם לפני 18 שעות טיסות סופ\"ש מגוון חודשים $53",
       "destination": "סופ\"ש",
       "price_usd": 53,
       "url": "https://secretflights.co.il/weekend-flights/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לפאפוס מגוון חודשים $99",
+      "raw_text": "פורסם לפני 2 ימים טיסות לפאפוס מגוון חודשים $98",
       "destination": "פאפוס",
-      "price_usd": 99,
+      "price_usd": 98,
       "url": "https://secretflights.co.il/flights-to-paphos/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים חברות תעופה ישראליות מגוון חודשים $100",
+      "raw_text": "פורסם לפני 3 ימים חברות תעופה ישראליות מגוון חודשים $100",
       "destination": null,
       "price_usd": 100,
       "url": "https://secretflights.co.il/israeli-airlines"
@@ -28,16 +28,28 @@
       "url": "https://secretflights.co.il/flights-to-krakow/"
     },
     {
-      "raw_text": "פורסם לפני 13 שעות טיסות לבודפשט נובמבר 2026 דצמבר 2026 $120",
+      "raw_text": "פורסם לפני 21 שעות טיסות לבודפשט נובמבר 2026 דצמבר 2026 $120",
       "destination": "בודפשט",
       "price_usd": 120,
       "url": "https://secretflights.co.il/flights-to-budapest/"
     },
     {
-      "raw_text": "פורסם לפני 20 שעות טיסות למונטנגרו אוקטובר 2026 $184",
+      "raw_text": "פורסם לפני 2 שעות טיסות לורשה מגוון חודשים $121",
+      "destination": "ורשה",
+      "price_usd": 121,
+      "url": "https://secretflights.co.il/flights-to-warsaw/"
+    },
+    {
+      "raw_text": "פורסם לפני יום 1 טיסות למונטנגרו אוקטובר 2026 $180",
       "destination": "מונטנגרו",
-      "price_usd": 184,
+      "price_usd": 180,
       "url": "https://secretflights.co.il/flights-to-montenegro/"
+    },
+    {
+      "raw_text": "פורסם לפני 5 שעות טיסות לבאקו אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $186",
+      "destination": "באקו",
+      "price_usd": 186,
+      "url": "https://secretflights.co.il/flights-to-baku"
     },
     {
       "raw_text": "פורסם לפני 3 ימים טיסות לפראג נובמבר 2026 ינואר 2027 פברואר 2027 מרץ 2027 $206",
@@ -46,34 +58,22 @@
       "url": "https://secretflights.co.il/flights-to-prague/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לאוסטריה מגוון חודשים $212",
+      "raw_text": "פורסם לפני 2 ימים טיסות לאוסטריה מגוון חודשים $209",
       "destination": "אוסטריה",
-      "price_usd": 212,
+      "price_usd": 209,
       "url": "https://secretflights.co.il/flights-to-austria/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות למדריד דצמבר 2026 ינואר 2027 פברואר 2027 מרץ 2027 $215",
-      "destination": "מדריד",
-      "price_usd": 215,
-      "url": "https://secretflights.co.il/flights-to-madrid/"
-    },
-    {
-      "raw_text": "פורסם לפני יום 1 טיסות לסינגפור מגוון חודשים $680",
+      "raw_text": "פורסם לפני 2 ימים טיסות לסינגפור מגוון חודשים $674",
       "destination": "סינגפור",
-      "price_usd": 680,
+      "price_usd": 674,
       "url": "https://secretflights.co.il/flights-to-singapore/"
     },
     {
-      "raw_text": "פורסם לפני 18 שעות טיסות לניו יורק נובמבר 2026 $750",
+      "raw_text": "פורסם לפני יום 1 טיסות לניו יורק נובמבר 2026 $750",
       "destination": "ניו יורק",
       "price_usd": 750,
       "url": "https://secretflights.co.il/flights-to-new-york/"
-    },
-    {
-      "raw_text": "פורסם לפני 4 ימים טיסות לרפובליקה הדומיניקנית אוקטובר 2026 $774",
-      "destination": "רפובליקה הדומיניקנית",
-      "price_usd": 774,
-      "url": "https://secretflights.co.il/flights-to-punta-cana/"
     }
   ]
 }
