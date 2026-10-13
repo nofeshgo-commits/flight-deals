@@ -1,6 +1,6 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-10-13T13:15:45.877891+00:00",
+  "updated_at": "2026-10-13T20:26:45.885103+00:00",
   "deals_count": 12,
   "deals": [
     {
@@ -10,57 +10,57 @@
       "url": "https://secretflights.co.il/flights-to-larnaca/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לנאפולי אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $86",
+      "raw_text": "פורסם לפני 2 ימים טיסות לנאפולי אוקטובר 2026 נובמבר 2026 דצמבר 2026 ינואר 2027 $87",
       "destination": "נאפולי",
-      "price_usd": 86,
+      "price_usd": 87,
       "url": "https://secretflights.co.il/flights-to-naples/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות לפאפוס מגוון חודשים $103",
+      "raw_text": "פורסם לפני 2 ימים טיסות לפאפוס מגוון חודשים $102",
       "destination": "פאפוס",
-      "price_usd": 103,
+      "price_usd": 102,
       "url": "https://secretflights.co.il/flights-to-paphos/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לרומא מגוון חודשים $110",
+      "raw_text": "פורסם לפני 3 ימים טיסות לרומא מגוון חודשים $107",
       "destination": "רומא",
-      "price_usd": 110,
+      "price_usd": 107,
       "url": "https://secretflights.co.il/flights-to-rome/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לפראג נובמבר 2026 ינואר 2027 פברואר 2027 מרץ 2027 $121",
-      "destination": "פראג",
-      "price_usd": 121,
-      "url": "https://secretflights.co.il/flights-to-prague/"
+      "raw_text": "פורסם לפני 5 שעות טיסות לקרקוב אוקטובר 2026 נובמבר 2026 $115",
+      "destination": "קרקוב",
+      "price_usd": 115,
+      "url": "https://secretflights.co.il/flights-to-krakow/"
     },
     {
-      "raw_text": "פורסם לפני 23 שעות טיסות לבודפשט נובמבר 2026 דצמבר 2026 $123",
+      "raw_text": "פורסם לפני יום 1 טיסות לבודפשט נובמבר 2026 דצמבר 2026 $124",
       "destination": "בודפשט",
-      "price_usd": 123,
+      "price_usd": 124,
       "url": "https://secretflights.co.il/flights-to-budapest/"
     },
     {
-      "raw_text": "פורסם לפני 3 שעות טיסות לסופיה ינואר 2027 פברואר 2027 מרץ 2027 $142",
+      "raw_text": "פורסם לפני 9 שעות טיסות לסופיה ינואר 2027 פברואר 2027 מרץ 2027 $142",
       "destination": "סופיה",
       "price_usd": 142,
       "url": "https://secretflights.co.il/flights-to-sofia/"
     },
     {
-      "raw_text": "פורסם לפני 7 שעות טיסות לפורטו אוקטובר 2026 נובמבר 2026 דצמבר 2026 $326",
+      "raw_text": "פורסם לפני 13 שעות טיסות לפורטו אוקטובר 2026 נובמבר 2026 דצמבר 2026 $322",
       "destination": "פורטו",
-      "price_usd": 326,
+      "price_usd": 322,
       "url": "https://secretflights.co.il/flights-to-porto/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לסרי לנקה דצמבר 2026 ינואר 2027 פברואר 2027 $563",
+      "raw_text": "פורסם לפני 2 ימים טיסות לסרי לנקה דצמבר 2026 ינואר 2027 פברואר 2027 $560",
       "destination": "סרי לנקה",
-      "price_usd": 563,
+      "price_usd": 560,
       "url": "https://secretflights.co.il/flights-to-sri-lanka/"
     },
     {
-      "raw_text": "פורסם לפני 19 שעות טיסות לפוקט דצמבר 2026 ינואר 2027 פברואר 2027 $647",
+      "raw_text": "פורסם לפני יום 1 טיסות לפוקט דצמבר 2026 ינואר 2027 פברואר 2027 $648",
       "destination": "פוקט",
-      "price_usd": 647,
+      "price_usd": 648,
       "url": "https://secretflights.co.il/flights-to-phuket/"
     },
     {
@@ -70,9 +70,9 @@
       "url": "https://secretflights.co.il/flights-to-bangkok/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות ללוס אנג'לס נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $850",
+      "raw_text": "פורסם לפני יום 1 טיסות ללוס אנג'לס נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $847",
       "destination": "לוס אנג'לס",
-      "price_usd": 850,
+      "price_usd": 847,
       "url": "https://secretflights.co.il/flights-to-los-angeles/"
     }
   ]
