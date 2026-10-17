@@ -1,22 +1,22 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-10-16T23:10:08.536080+00:00",
+  "updated_at": "2026-10-17T02:21:50.340238+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 20 שעות טיסות לסיציליה מגוון חודשים $78",
+      "raw_text": "פורסם לפני 22 שעות טיסות לסיציליה מגוון חודשים $78",
       "destination": "סיציליה",
       "price_usd": 78,
       "url": "https://secretflights.co.il/flights-to-sicily/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות טארום מגוון חודשים $84",
+      "raw_text": "פורסם לפני 2 ימים טיסות טארום מגוון חודשים $87",
       "destination": "טארום",
-      "price_usd": 84,
+      "price_usd": 87,
       "url": "https://secretflights.co.il/tarom-flights/"
     },
     {
-      "raw_text": "פורסם לפני 9 שעות טיסות לאתונה נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $107",
+      "raw_text": "פורסם לפני 11 שעות טיסות לאתונה נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $107",
       "destination": "אתונה",
       "price_usd": 107,
       "url": "https://secretflights.co.il/flights-to-athens/"
@@ -28,27 +28,27 @@
       "url": "https://secretflights.co.il/flights-to-italy/"
     },
     {
-      "raw_text": "פורסם לפני 14 שעות טיסות למדריד נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $138",
+      "raw_text": "פורסם לפני 17 שעות טיסות למדריד נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $138",
       "destination": "מדריד",
       "price_usd": 138,
       "url": "https://secretflights.co.il/flights-to-madrid/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לטביליסי נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $150",
+      "raw_text": "פורסם לפני 2 ימים טיסות לטביליסי נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $151",
       "destination": "טביליסי",
-      "price_usd": 150,
+      "price_usd": 151,
       "url": "https://secretflights.co.il/flights-to-tbilisi/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות לברלין ינואר 2027 פברואר 2027 מרץ 2027 $211",
+      "raw_text": "פורסם לפני יום 1 טיסות לברלין ינואר 2027 פברואר 2027 מרץ 2027 $213",
       "destination": "ברלין",
-      "price_usd": 211,
+      "price_usd": 213,
       "url": "https://secretflights.co.il/flights-to-berlin/"
     },
     {
-      "raw_text": "פורסם לפני 11 שעות טיסות אתיופיאן איירליינס מגוון חודשים $505",
+      "raw_text": "פורסם לפני 14 שעות טיסות אתיופיאן איירליינס מגוון חודשים $501",
       "destination": "אתיופיאן איירליינס",
-      "price_usd": 505,
+      "price_usd": 501,
       "url": "https://secretflights.co.il/ethiopian-airlines-flights/"
     },
     {
@@ -58,15 +58,15 @@
       "url": "https://secretflights.co.il/flights-to-new-york/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות למיאמי נובמבר 2026 ינואר 2027 פברואר 2027 $765",
+      "raw_text": "פורסם לפני 2 ימים טיסות למיאמי נובמבר 2026 ינואר 2027 פברואר 2027 $765",
       "destination": "מיאמי",
       "price_usd": 765,
       "url": "https://secretflights.co.il/flights-to-miami/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לקריביים ינואר 2027 פברואר 2027 $943",
+      "raw_text": "פורסם לפני 3 ימים טיסות לקריביים ינואר 2027 פברואר 2027 $959",
       "destination": "קריביים",
-      "price_usd": 943,
+      "price_usd": 959,
       "url": "https://secretflights.co.il/flights-to-caribbean/"
     },
     {
