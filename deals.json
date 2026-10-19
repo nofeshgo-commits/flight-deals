@@ -1,12 +1,12 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-10-18T22:41:29.861796+00:00",
+  "updated_at": "2026-10-19T02:36:13.289986+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני יום 1 טיסות ברגע האחרון אוקטובר 2026 $63",
+      "raw_text": "פורסם לפני יום 1 טיסות ברגע האחרון אוקטובר 2026 $64",
       "destination": "ברגע האחרון",
-      "price_usd": 63,
+      "price_usd": 64,
       "url": "https://secretflights.co.il/last-minute-flights/"
     },
     {
@@ -16,28 +16,28 @@
       "url": "https://secretflights.co.il/flights-to-sicily/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לאתונה נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $104",
+      "raw_text": "פורסם לפני 3 ימים טיסות לאתונה נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $101",
       "destination": "אתונה",
-      "price_usd": 104,
+      "price_usd": 101,
       "url": "https://secretflights.co.il/flights-to-athens/"
     },
     {
-      "raw_text": "פורסם לפני 13 שעות טיסות לרומניה יולי 2027 אוגוסט 2027 $131",
+      "raw_text": "פורסם לפני 17 שעות טיסות לרומניה יולי 2027 אוגוסט 2027 $131",
       "destination": "רומניה",
       "price_usd": 131,
       "url": "https://secretflights.co.il/flights-to-romania/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות למדריד נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $134",
-      "destination": "מדריד",
-      "price_usd": 134,
-      "url": "https://secretflights.co.il/flights-to-madrid/"
-    },
-    {
-      "raw_text": "פורסם לפני 5 שעות טיסות לפאפוס יולי 2027 $140",
+      "raw_text": "פורסם לפני 8 שעות טיסות לפאפוס יולי 2027 $140",
       "destination": "פאפוס",
       "price_usd": 140,
       "url": "https://secretflights.co.il/flights-to-paphos/"
+    },
+    {
+      "raw_text": "פורסם לפני 3 ימים טיסות למדריד נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $142",
+      "destination": "מדריד",
+      "price_usd": 142,
+      "url": "https://secretflights.co.il/flights-to-madrid/"
     },
     {
       "raw_text": "פורסם לפני 2 ימים טיסות לוינה מגוון חודשים $233",
@@ -46,31 +46,31 @@
       "url": "https://secretflights.co.il/flights-to-vienna/"
     },
     {
-      "raw_text": "פורסם לפני 15 שעות טיסות ישירות לזלצבורג אפריל 2027 מאי 2027 $285",
+      "raw_text": "פורסם לפני 18 שעות טיסות ישירות לזלצבורג אפריל 2027 מאי 2027 $285",
       "destination": "ישירות לזלצבורג",
       "price_usd": 285,
       "url": "https://secretflights.co.il/flights-to-salzburg-254/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות אתיופיאן איירליינס מגוון חודשים $514",
+      "raw_text": "פורסם לפני 3 ימים טיסות אתיופיאן איירליינס מגוון חודשים $510",
       "destination": "אתיופיאן איירליינס",
-      "price_usd": 514,
+      "price_usd": 510,
       "url": "https://secretflights.co.il/ethiopian-airlines-flights/"
     },
     {
-      "raw_text": "פורסם לפני 7 שעות טיסות לזנזיבר מגוון חודשים $522",
+      "raw_text": "פורסם לפני 11 שעות טיסות לזנזיבר מגוון חודשים $534",
       "destination": "זנזיבר",
-      "price_usd": 522,
+      "price_usd": 534,
       "url": "https://secretflights.co.il/flights-to-zanzibar/"
     },
     {
-      "raw_text": "פורסם לפני 11 שעות טיסות לבנגקוק ספטמבר 2027 $639",
+      "raw_text": "פורסם לפני 15 שעות טיסות לבנגקוק ספטמבר 2027 $639",
       "destination": "בנגקוק",
       "price_usd": 639,
       "url": "https://secretflights.co.il/flights-to-bangkok/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות לקוסטה ריקה מרץ 2027 אפריל 2027 מאי 2027 יוני 2027 $849",
+      "raw_text": "פורסם לפני 2 ימים טיסות לקוסטה ריקה מרץ 2027 אפריל 2027 מאי 2027 יוני 2027 $849",
       "destination": "קוסטה ריקה",
       "price_usd": 849,
       "url": "https://secretflights.co.il/flights-to-costa-rica/"
