@@ -1,12 +1,12 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-11-05T10:06:21.345799+00:00",
+  "updated_at": "2026-11-05T19:17:05.960383+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 15 שעות טיסות בחנוכה דצמבר 2026 $50",
+      "raw_text": "פורסם לפני יום 1 טיסות בחנוכה דצמבר 2026 $49",
       "destination": "בחנוכה",
-      "price_usd": 50,
+      "price_usd": 49,
       "url": "https://secretflights.co.il/hanukkah-flights/"
     },
     {
@@ -16,64 +16,64 @@
       "url": "https://secretflights.co.il/flights-to-larnaca/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לסיציליה מגוון חודשים $76",
+      "raw_text": "פורסם לפני 3 ימים טיסות לסיציליה מגוון חודשים $77",
       "destination": "סיציליה",
-      "price_usd": 76,
+      "price_usd": 77,
       "url": "https://secretflights.co.il/flights-to-sicily/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לאתונה נובמבר 2026 דצמבר 2026 $104",
+      "raw_text": "פורסם לפני 2 ימים טיסות לאתונה נובמבר 2026 דצמבר 2026 $107",
       "destination": "אתונה",
-      "price_usd": 104,
+      "price_usd": 107,
       "url": "https://secretflights.co.il/flights-to-athens/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לבטומי ינואר 2027 פברואר 2027 מרץ 2027 $161",
+      "raw_text": "פורסם לפני 3 שעות טיסות לחופשת סקי דצמבר 2026 ינואר 2027 פברואר 2027 מרץ 2027 $111",
+      "destination": "חופשת סקי",
+      "price_usd": 111,
+      "url": "https://secretflights.co.il/flights-to-ski-vacation/"
+    },
+    {
+      "raw_text": "פורסם לפני 10 שעות טיסות לסלובקיה מגוון חודשים $135",
+      "destination": "סלובקיה",
+      "price_usd": 135,
+      "url": "https://secretflights.co.il/flights-to-slovakia/"
+    },
+    {
+      "raw_text": "פורסם לפני 3 ימים טיסות לבטומי ינואר 2027 פברואר 2027 מרץ 2027 $162",
       "destination": "בטומי",
-      "price_usd": 161,
+      "price_usd": 162,
       "url": "https://secretflights.co.il/flights-to-batumi/"
     },
     {
-      "raw_text": "פורסם לפני 4 ימים טיסות לאלבניה ינואר 2027 פברואר 2027 $177",
-      "destination": "אלבניה",
-      "price_usd": 177,
-      "url": "https://secretflights.co.il/flights-to-albania/"
-    },
-    {
-      "raw_text": "פורסם לפני 4 ימים טיסות לליסבון דצמבר 2026 ינואר 2027 $337",
-      "destination": "ליסבון",
-      "price_usd": 337,
-      "url": "https://secretflights.co.il/flights-to-lisbon/"
-    },
-    {
-      "raw_text": "פורסם לפני 3 שעות טיסות לסרי לנקה מגוון חודשים $621",
+      "raw_text": "פורסם לפני 12 שעות טיסות לסרי לנקה מגוון חודשים $620",
       "destination": "סרי לנקה",
-      "price_usd": 621,
+      "price_usd": 620,
       "url": "https://secretflights.co.il/flights-to-sri-lanka/"
     },
     {
-      "raw_text": "פורסם לפני 22 שעות טיסות לונקובר מאי 2027 $662",
+      "raw_text": "פורסם לפני יום 1 טיסות לונקובר מאי 2027 $668",
       "destination": "ונקובר",
-      "price_usd": 662,
+      "price_usd": 668,
       "url": "https://secretflights.co.il/flights-to-vancouver/"
     },
     {
-      "raw_text": "פורסם לפני 17 שעות טיסות למיאמי נובמבר 2026 $725",
+      "raw_text": "פורסם לפני יום 1 טיסות למיאמי נובמבר 2026 $725",
       "destination": "מיאמי",
       "price_usd": 725,
       "url": "https://secretflights.co.il/flights-to-miami/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לבוסטון דצמבר 2026 ינואר 2027 מרץ 2027 $759",
+      "raw_text": "פורסם לפני 3 ימים טיסות לבוסטון דצמבר 2026 ינואר 2027 מרץ 2027 $757",
       "destination": "בוסטון",
-      "price_usd": 759,
+      "price_usd": 757,
       "url": "https://secretflights.co.il/flights-to-boston/"
     },
     {
-      "raw_text": "פורסם לפני 4 ימים טיסות ליפן ינואר 2027 פברואר 2027 $864",
-      "destination": "יפן",
-      "price_usd": 864,
-      "url": "https://secretflights.co.il/flights-to-japan/"
+      "raw_text": "פורסם לפני 9 שעות טיסות ללוס אנג'לס ינואר 2027 $950",
+      "destination": "לוס אנג'לס",
+      "price_usd": 950,
+      "url": "https://secretflights.co.il/flights-to-los-angeles/"
     }
   ]
 }
