@@ -1,19 +1,13 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-11-13T04:21:53.236525+00:00",
+  "updated_at": "2026-11-13T13:42:03.736776+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 19 שעות טיסות ללרנקה מגוון חודשים $60",
+      "raw_text": "פורסם לפני יום 1 טיסות ללרנקה מגוון חודשים $60",
       "destination": "לרנקה",
       "price_usd": 60,
       "url": "https://secretflights.co.il/flights-to-larnaca/"
-    },
-    {
-      "raw_text": "פורסם לפני 3 ימים טיסות לקרקוב ינואר 2027 פברואר 2027 מרץ 2027 $109",
-      "destination": "קרקוב",
-      "price_usd": 109,
-      "url": "https://secretflights.co.il/flights-to-krakow/"
     },
     {
       "raw_text": "פורסם לפני 2 ימים טיסות לורשה ינואר 2027 פברואר 2027 מרץ 2027 $120",
@@ -22,55 +16,61 @@
       "url": "https://secretflights.co.il/flights-to-warsaw/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות למדריד נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $196",
+      "raw_text": "פורסם לפני 4 שעות טיסות לבטומי ינואר 2027 פברואר 2027 מרץ 2027 $153",
+      "destination": "בטומי",
+      "price_usd": 153,
+      "url": "https://secretflights.co.il/flights-to-batumi/"
+    },
+    {
+      "raw_text": "פורסם לפני 2 ימים טיסות למדריד נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $198",
       "destination": "מדריד",
-      "price_usd": 196,
+      "price_usd": 198,
       "url": "https://secretflights.co.il/flights-to-madrid/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לוינה נובמבר 2026 $254",
+      "raw_text": "פורסם לפני 3 ימים טיסות לוינה נובמבר 2026 $249",
       "destination": "וינה",
-      "price_usd": 254,
+      "price_usd": 249,
       "url": "https://secretflights.co.il/flights-to-vienna/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לפורטוגל יולי 2027 אוגוסט 2027 ספטמבר 2027 אוקטובר 2027 $325",
+      "raw_text": "פורסם לפני 3 ימים טיסות לפורטוגל יולי 2027 אוגוסט 2027 ספטמבר 2027 אוקטובר 2027 $325",
       "destination": "פורטוגל",
       "price_usd": 325,
       "url": "https://secretflights.co.il/flights-to-portugal/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות למומבאי ספטמבר 2027 אוקטובר 2027 $462",
+      "raw_text": "פורסם לפני 3 ימים טיסות למומבאי ספטמבר 2027 אוקטובר 2027 $456",
       "destination": "מומבאי",
-      "price_usd": 462,
+      "price_usd": 456,
       "url": "https://secretflights.co.il/flights-to-mumbai/"
     },
     {
-      "raw_text": "פורסם לפני 18 שעות טיסות לדלהי דצמבר 2026 $540",
+      "raw_text": "פורסם לפני יום 1 טיסות לדלהי דצמבר 2026 $537",
       "destination": "דלהי",
-      "price_usd": 540,
+      "price_usd": 537,
       "url": "https://secretflights.co.il/flights-to-delhi/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לניו יורק נובמבר 2026 דצמבר 2026 $752",
+      "raw_text": "פורסם לפני 2 שעות טיסות לניו יורק דצמבר 2026 ינואר 2027 פברואר 2027 $809",
       "destination": "ניו יורק",
-      "price_usd": 752,
+      "price_usd": 809,
       "url": "https://secretflights.co.il/flights-to-new-york/"
     },
     {
-      "raw_text": "פורסם לפני 13 שעות טיסות לבוסטון יולי 2027 $834",
-      "destination": "בוסטון",
-      "price_usd": 834,
-      "url": "https://secretflights.co.il/flights-to-boston/"
-    },
-    {
-      "raw_text": "פורסם לפני 9 שעות טיסות לקוסטה ריקה מגוון חודשים $841",
+      "raw_text": "פורסם לפני 19 שעות טיסות לקוסטה ריקה מגוון חודשים $836",
       "destination": "קוסטה ריקה",
-      "price_usd": 841,
+      "price_usd": 836,
       "url": "https://secretflights.co.il/flights-to-costa-rica/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות ללאס וגאס נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $871",
+      "raw_text": "פורסם לפני 22 שעות טיסות לבוסטון יולי 2027 $836",
+      "destination": "בוסטון",
+      "price_usd": 836,
+      "url": "https://secretflights.co.il/flights-to-boston/"
+    },
+    {
+      "raw_text": "פורסם לפני 2 ימים טיסות ללאס וגאס נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $871",
       "destination": "לאס וגאס",
       "price_usd": 871,
       "url": "https://secretflights.co.il/flights-to-las-vegas/"
