@@ -1,16 +1,16 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-11-21T10:29:31.527937+00:00",
+  "updated_at": "2026-11-21T18:30:02.978882+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 18 שעות טיסות לסיציליה ינואר 2027 פברואר 2027 מרץ 2027 $77",
+      "raw_text": "פורסם לפני יום 1 טיסות לסיציליה ינואר 2027 פברואר 2027 מרץ 2027 $77",
       "destination": "סיציליה",
       "price_usd": 77,
       "url": "https://secretflights.co.il/flights-to-sicily/"
     },
     {
-      "raw_text": "פורסם לפני 37 דקות טיסות ללרנקה יוני 2027 יולי 2027 $108",
+      "raw_text": "פורסם לפני 9 שעות טיסות ללרנקה יוני 2027 יולי 2027 $108",
       "destination": "לרנקה",
       "price_usd": 108,
       "url": "https://secretflights.co.il/flights-to-larnaca/"
@@ -28,52 +28,52 @@
       "url": "https://secretflights.co.il/flights-to-thessaloniki/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לבאקו נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $191",
-      "destination": "באקו",
-      "price_usd": 191,
-      "url": "https://secretflights.co.il/flights-to-baku"
-    },
-    {
       "raw_text": "פורסם לפני 2 ימים טיסות לברלין נובמבר 2026 דצמבר 2026 $209",
       "destination": "ברלין",
       "price_usd": 209,
       "url": "https://secretflights.co.il/flights-to-berlin/"
     },
     {
-      "raw_text": "פורסם לפני 20 שעות טיסות לסיישל מגוון חודשים $536",
+      "raw_text": "פורסם לפני יום 1 טיסות לסיישל מגוון חודשים $539",
       "destination": "סיישל",
-      "price_usd": 536,
+      "price_usd": 539,
       "url": "https://secretflights.co.il/flights-to-seychelles/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לסרי לנקה מגוון חודשים $570",
+      "raw_text": "פורסם לפני 2 ימים טיסות לסרי לנקה מגוון חודשים $567",
       "destination": "סרי לנקה",
-      "price_usd": 570,
+      "price_usd": 567,
       "url": "https://secretflights.co.il/flights-to-sri-lanka/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לניו יורק ינואר 2027 $675",
+      "raw_text": "פורסם לפני 6 שעות טיסות לסיאול מגוון חודשים $663",
+      "destination": "סיאול",
+      "price_usd": 663,
+      "url": "https://secretflights.co.il/flights-to-seoul/"
+    },
+    {
+      "raw_text": "פורסם לפני 2 ימים טיסות לניו יורק ינואר 2027 $683",
       "destination": "ניו יורק",
-      "price_usd": 675,
+      "price_usd": 683,
       "url": "https://secretflights.co.il/flights-to-new-york/"
     },
     {
-      "raw_text": "פורסם לפני 3 ימים טיסות לפוקט דצמבר 2026 ינואר 2027 פברואר 2027 מרץ 2027 $694",
+      "raw_text": "פורסם לפני 6 דקות טיסות לבנגקוק דצמבר 2026 ינואר 2027 פברואר 2027 מרץ 2027 $696",
+      "destination": "בנגקוק",
+      "price_usd": 696,
+      "url": "https://secretflights.co.il/flights-to-bangkok/"
+    },
+    {
+      "raw_text": "פורסם לפני 3 ימים טיסות לפוקט דצמבר 2026 ינואר 2027 פברואר 2027 מרץ 2027 $696",
       "destination": "פוקט",
-      "price_usd": 694,
+      "price_usd": 696,
       "url": "https://secretflights.co.il/flights-to-phuket/"
     },
     {
-      "raw_text": "פורסם לפני 23 שעות טיסות לקנדה דצמבר 2026 ינואר 2027 פברואר 2027 מרץ 2027 $746",
+      "raw_text": "פורסם לפני יום 1 טיסות לקנדה דצמבר 2026 ינואר 2027 פברואר 2027 מרץ 2027 $743",
       "destination": "קנדה",
-      "price_usd": 746,
+      "price_usd": 743,
       "url": "https://secretflights.co.il/flights-to-canada/"
-    },
-    {
-      "raw_text": "פורסם לפני 3 ימים טיסות לאוסטרליה מגוון חודשים $962",
-      "destination": "אוסטרליה",
-      "price_usd": 962,
-      "url": "https://secretflights.co.il/flights-to-australia/"
     }
   ]
 }
