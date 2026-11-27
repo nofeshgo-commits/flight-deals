@@ -1,60 +1,60 @@
 {
   "source": "https://secretflights.co.il/flight-deals/",
-  "updated_at": "2026-11-26T20:45:03.813698+00:00",
+  "updated_at": "2026-11-27T03:23:49.286406+00:00",
   "deals_count": 12,
   "deals": [
     {
-      "raw_text": "פורסם לפני 11 שעות טיסות לרומא נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $107",
+      "raw_text": "פורסם לפני 17 שעות טיסות לרומא נובמבר 2026 דצמבר 2026 ינואר 2027 פברואר 2027 $107",
       "destination": "רומא",
       "price_usd": 107,
       "url": "https://secretflights.co.il/flights-to-rome/"
     },
     {
-      "raw_text": "פורסם לפני 16 שעות טיסות לאלבניה ינואר 2027 פברואר 2027 $149",
+      "raw_text": "פורסם לפני 22 שעות טיסות לאלבניה ינואר 2027 פברואר 2027 $149",
       "destination": "אלבניה",
       "price_usd": 149,
       "url": "https://secretflights.co.il/flights-to-albania/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לבאקו דצמבר 2026 ינואר 2027 פברואר 2027 מרץ 2027 $171",
+      "raw_text": "פורסם לפני 3 ימים טיסות לבאקו דצמבר 2026 ינואר 2027 פברואר 2027 מרץ 2027 $168",
       "destination": "באקו",
-      "price_usd": 171,
+      "price_usd": 168,
       "url": "https://secretflights.co.il/flights-to-baku"
     },
     {
-      "raw_text": "פורסם לפני 4 שעות טיסות לטביליסי אפריל 2027 יוני 2027 יולי 2027 אוגוסט 2027 $177",
-      "destination": "טביליסי",
-      "price_usd": 177,
-      "url": "https://secretflights.co.il/flights-to-tbilisi/"
-    },
-    {
-      "raw_text": "פורסם לפני 2 ימים טיסות לפראג ינואר 2027 פברואר 2027 מרץ 2027 $177",
+      "raw_text": "פורסם לפני 2 ימים טיסות לפראג ינואר 2027 פברואר 2027 מרץ 2027 $176",
       "destination": "פראג",
-      "price_usd": 177,
+      "price_usd": 176,
       "url": "https://secretflights.co.il/flights-to-prague/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות להודו ינואר 2027 פברואר 2027 מרץ 2027 $361",
+      "raw_text": "פורסם לפני 11 שעות טיסות לטביליסי אפריל 2027 יוני 2027 יולי 2027 אוגוסט 2027 $180",
+      "destination": "טביליסי",
+      "price_usd": 180,
+      "url": "https://secretflights.co.il/flights-to-tbilisi/"
+    },
+    {
+      "raw_text": "פורסם לפני יום 1 טיסות להודו ינואר 2027 פברואר 2027 מרץ 2027 $362",
       "destination": "הודו",
-      "price_usd": 361,
+      "price_usd": 362,
       "url": "https://secretflights.co.il/flights-to-india"
     },
     {
-      "raw_text": "פורסם לפני 2 שעות טיסות לניו יורק פברואר 2027 מרץ 2027 $571",
+      "raw_text": "פורסם לפני 8 שעות טיסות לניו יורק פברואר 2027 מרץ 2027 $576",
       "destination": "ניו יורק",
-      "price_usd": 571,
+      "price_usd": 576,
       "url": "https://secretflights.co.il/flights-to-new-york/"
     },
     {
-      "raw_text": "פורסם לפני 2 ימים טיסות לונקובר מאי 2027 $628",
+      "raw_text": "פורסם לפני 2 ימים טיסות לונקובר מאי 2027 $639",
       "destination": "ונקובר",
-      "price_usd": 628,
+      "price_usd": 639,
       "url": "https://secretflights.co.il/flights-to-vancouver/"
     },
     {
-      "raw_text": "פורסם לפני 11 שעות טיסות לוייטנאם דצמבר 2026 $674",
+      "raw_text": "פורסם לפני 18 שעות טיסות לוייטנאם דצמבר 2026 $698",
       "destination": "וייטנאם",
-      "price_usd": 674,
+      "price_usd": 698,
       "url": "https://secretflights.co.il/flights-to-vietnam/"
     },
     {
@@ -64,13 +64,13 @@
       "url": "https://secretflights.co.il/flights-to-boston/"
     },
     {
-      "raw_text": "פורסם לפני 8 שעות טיסות למרכז אמריקה ינואר 2027 פברואר 2027 מרץ 2027 אפריל 2027 $818",
+      "raw_text": "פורסם לפני 15 שעות טיסות למרכז אמריקה ינואר 2027 פברואר 2027 מרץ 2027 אפריל 2027 $818",
       "destination": "מרכז אמריקה",
       "price_usd": 818,
       "url": "https://secretflights.co.il/flights-to-central-america/"
     },
     {
-      "raw_text": "פורסם לפני יום 1 טיסות ללוס אנג'לס אוקטובר 2027 $898",
+      "raw_text": "פורסם לפני 2 ימים טיסות ללוס אנג'לס אוקטובר 2027 $898",
       "destination": "לוס אנג'לס",
       "price_usd": 898,
       "url": "https://secretflights.co.il/flights-to-los-angeles/"
